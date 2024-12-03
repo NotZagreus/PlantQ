@@ -1,0 +1,142 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Live Plant Data</h1>
+<table>
+    <tr>
+        <td style="width: 45%"><canvas id="liveTempChart" width="400"></canvas></td>
+        <td style="width: 45%"><canvas id="liveHumChart" width="400"></canvas></td>
+        <td style="width: 10%"><div id="moistureStatus" style="text-align: center; font-size: 24px;"></div></td>
+    </tr>
+</table>
+<script>
+    // Initialize the charts
+    var liveTempCtx = document.getElementById('liveTempChart').getContext('2d');
+    var liveHumCtx = document.getElementById('liveHumChart').getContext('2d');
+
+    // Temperature Chart
+    var liveTempChart = new Chart(liveTempCtx, {
+        type: 'line',
+        data: {
+            labels: [],
+            datasets: [{
+                label: 'Temperature (°C)',
+                data: [],
+                borderColor: 'rgba(255, 99, 132, 1)',
+                backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                borderWidth: 2,
+                tension: 0.4
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                tooltip: {
+                    enabled: true,
+                    callbacks: {
+                        label: function (context) {
+                            return `Temperature: ${context.raw}°C`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    grid: {
+                        display: false
+                    }
+                },
+                y: {
+                    beginAtZero: true,
+                    grid: {
+                        color: 'rgba(200, 200, 200, 0.3)'
+                    }
+                }
+            },
+            animation: {
+                duration: 2000,
+                easing: 'easeInOutCubic'
+            }
+        }
+    });
+
+    // Enhanced Humidity Chart
+    var liveHumChart = new Chart(liveHumCtx, {
+        type: 'line',
+        data: {
+            labels: [],
+            datasets: [{
+                label: 'Humidity (%)',
+                data: [],
+                borderColor: 'rgba(54, 162, 235, 1)',
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                borderWidth: 2,
+                tension: 0.4
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                tooltip: {
+                    enabled: true,
+                    callbacks: {
+                        label: function (context) {
+                            return `Humidity: ${context.raw}%`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    grid: {
+                        display: false
+                    }
+                },
+                y: {
+                    beginAtZero: true,
+                    grid: {
+                        color: 'rgba(200, 200, 200, 0.3)'
+                    }
+                }
+            },
+            animation: {
+                duration: 2000,
+                easing: 'easeInOutCubic'
+            }
+        }
+    });
+
+
+    function fetchLiveData() {
+    fetch('/live-data')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok ' + response.statusText);
+            }
+            return response.json();
+        })
+        .then(data => {
+            const latestTemp = parseFloat(data.temperature[data.temperature.length - 1]);
+            const latestHum = parseFloat(data.humidity[data.humidity.length - 1]);
+            const latestMoisture = data.moisture.length > 0 ? (data.moisture[data.moisture.length - 1] === "Wet" ? "The Soil is WET" : "The soil is DRY") : "No moisture data";
+
+            liveTempChart.data.labels.push(new Date().toLocaleTimeString());
+            liveTempChart.data.datasets[0].data.push(latestTemp);
+            liveHumChart.data.labels.push(new Date().toLocaleTimeString());
+            liveHumChart.data.datasets[0].data.push(latestHum);
+
+            document.getElementById('moistureStatus').innerText = latestMoisture;
+
+            liveTempChart.update();
+            liveHumChart.update();
+        })
+        .catch(error => {
+            console.error('There has been a problem with your fetch operation:', error);
+        });
+}
+
+    setInterval(fetchLiveData, 2000);
+</script>
+{% endblock %}

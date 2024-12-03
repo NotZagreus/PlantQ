@@ -1,0 +1,143 @@
+/* General Styles */
+body {
+    font-family: 'Roboto', Arial, sans-serif; /* Modern font */
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6; /* Better readability */
+}
+
+/* Headings */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+    letter-spacing: 1px; /* Slight spacing for a modern touch */
+}
+
+/* Navigation Bar */
+/* General Navigation Styling */
+nav {
+    background-color: #5a61ad;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around; /* Adjust alignment */
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    position: static; /* Prevent conflict with collapsible behavior */
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    transition: color 0.3s, background-color 0.3s;
+}
+
+nav ul li ul {
+    display: none; /* Ensure dropdown starts hidden */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #37bc9b;
+    z-index: 1000;
+    border-radius: 8px;
+}
+
+nav ul li ul.show {
+    display: block; /* Bootstrap toggles this class */
+}
+
+/* Remove hover-based dropdown */
+nav ul li:hover ul {
+    display: none;
+}
+
+
+/* Table Styles */
+table {
+    width: 100%; /* Full width for responsiveness */
+    margin: 20px auto;
+    border-collapse: collapse;
+    border-radius: 8px; /* Rounded corners */
+    overflow: hidden; /* Ensure rounded edges apply */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+/* Canvas Styling */
+canvas {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Moisture Status Styling */
+#moistureStatus {
+    font-size: 24px;
+    color: #333;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Button Styles */
+.button {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.button:hover {
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+.button.on {
+    background-color: #ffdd57; /* Brighter yellow for emphasis */
+    color: black;
+    box-shadow: 0 4px 6px rgba(255, 223, 87, 0.4); /* Highlight with a yellow glow */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav ul {
+        flex-wrap: wrap; /* Adjust menu for small screens */
+    }
+
+    table {
+        width: 100%; /* Full width for smaller screens */
+        margin: 10px 0;
+    }
+
+    .button {
+        width: 100%; /* Full width for buttons on small screens */
+        max-width: 300px; /* Prevent buttons from being too large */
+    }
+}
+
+.container {
+    @import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlantQ</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+<body>
+    <nav class="navbar">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a href="/home" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/live-data-page" class="nav-link">Live Data</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/logs" class="nav-link">Logs</a>
+                </li>
+            </ul>
+    </nav>
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+
+</body>
+</html>

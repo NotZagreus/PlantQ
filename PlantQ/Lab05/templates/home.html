@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PlantQ Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='home-style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a href="/home" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/live-data-page" class="nav-link">Live Data</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/logs" class="nav-link">Logs</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <h1>Welcome to PlantQ!</h1>
+        <h3>Monitor and control your plant environment with ease.</h3>
+        <div class="image-gallery">
+            <img src="{{ url_for('static', filename='plant1.png') }}" alt="Plant 1">
+            <img src="{{ url_for('static', filename='plant2.png') }}" alt="Plant 2">
+            <img src="{{ url_for('static', filename='plant3.png') }}" alt="Plant 3">
+        </div>
+    </div>
+</body>
+</html>
