@@ -1,0 +1,20 @@
+How to make this project work for you.
+
+There are two parts that need attention here, your computer and your raspberrypi.
+
+**Considering you already set up the hardware as I did**
+
+Starting with the raspberrypi:
+
+1. Turn on the micro computer and make sure that you have the plant.py file.
+2. Run the plant.py file using the "python3 plant.py" command.
+3. Look for any error messages that pop up.
+4. Smile because it works and records data.
+
+Following with your computer:
+
+1. Get the files from my GitHub, PlantQ project, and import them into an IDE like PyCharm
+2. Run the app.py file with the compiler and wait a little
+3. Click the link ending with the port :5000, to navigate directly to the login page of the PlantQ website.
+4. Enjoy that your plants can now automatically be watered and get sun without having sunlight.
+5. Go outside and enjoy life.
