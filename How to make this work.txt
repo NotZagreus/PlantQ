@@ -3,6 +3,18 @@ How to make this project work for you.
 There are two parts that need attention here, your computer and your raspberrypi.
 
 **Considering you already set up the hardware as I did**
+In case you don't, you'll need:
+1. A raspberrypi
+2. breadboards
+3. DHT11 sensor
+4. Light sensor
+5. Moisture sensor
+6. 5V relay
+7. 5V water pump
+8. Some LEDs (as many as you like)
+9. Resistors
+10. Cables; male to male and male to female.
+11. *Optional* a breadboard extention
 
 Starting with the raspberrypi:
 
