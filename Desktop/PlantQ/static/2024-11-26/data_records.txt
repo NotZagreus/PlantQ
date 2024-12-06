@@ -1,0 +1,2615 @@
+Time: 2024-11-26 14:28:05, Moisture: Dry
+Time: 2024-11-26 14:28:05, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:07, Moisture: Dry
+Time: 2024-11-26 14:28:08, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:10, Moisture: Dry
+Time: 2024-11-26 14:28:10, Moisture: Dry
+Time: 2024-11-26 14:28:10, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:10, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:12, Moisture: Dry
+Time: 2024-11-26 14:28:12, Moisture: Dry
+Time: 2024-11-26 14:28:12, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:12, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:14, Moisture: Dry
+Time: 2024-11-26 14:28:14, Moisture: Dry
+Time: 2024-11-26 14:28:14, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:16, Moisture: Dry
+Time: 2024-11-26 14:28:17, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:19, Moisture: Dry
+Time: 2024-11-26 14:28:19, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:21, Moisture: Dry
+Time: 2024-11-26 14:28:21, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:28:23, Moisture: Dry
+Time: 2024-11-26 14:28:23, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:28:25, Moisture: Dry
+Time: 2024-11-26 14:28:25, Moisture: Dry
+Time: 2024-11-26 14:28:26, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:28:28, Moisture: Dry
+Time: 2024-11-26 14:28:28, Moisture: Dry
+Time: 2024-11-26 14:28:28, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:28:28, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:28:30, Moisture: Dry
+Time: 2024-11-26 14:28:30, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:28:52, Moisture: Dry
+Time: 2024-11-26 14:28:53, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:28:53, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:28:55, Moisture: Dry
+Time: 2024-11-26 14:28:55, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:28:57, Moisture: Dry
+Time: 2024-11-26 14:28:59, Moisture: Dry
+Time: 2024-11-26 14:28:59, Moisture: Dry
+Time: 2024-11-26 14:28:59, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:28:59, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:01, Moisture: Dry
+Time: 2024-11-26 14:29:02, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:04, Moisture: Dry
+Time: 2024-11-26 14:29:04, Moisture: Dry
+Time: 2024-11-26 14:29:04, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:04, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:06, Moisture: Dry
+Time: 2024-11-26 14:29:06, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:06, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:08, Moisture: Dry
+Time: 2024-11-26 14:29:09, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:09, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:11, Moisture: Dry
+Time: 2024-11-26 14:29:11, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:13, Moisture: Dry
+Time: 2024-11-26 14:29:13, Moisture: Dry
+Time: 2024-11-26 14:29:13, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:15, Moisture: Dry
+Time: 2024-11-26 14:29:15, Moisture: Dry
+Time: 2024-11-26 14:29:17, Moisture: Dry
+Time: 2024-11-26 14:29:18, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:20, Moisture: Dry
+Time: 2024-11-26 14:29:20, Moisture: Dry
+Time: 2024-11-26 14:29:20, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:22, Moisture: Dry
+Time: 2024-11-26 14:29:22, Moisture: Dry
+Time: 2024-11-26 14:29:24, Moisture: Dry
+Time: 2024-11-26 14:29:24, Moisture: Dry
+Time: 2024-11-26 14:29:24, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:26, Moisture: Dry
+Time: 2024-11-26 14:29:26, Moisture: Dry
+Time: 2024-11-26 14:29:27, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:29, Moisture: Dry
+Time: 2024-11-26 14:29:29, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:31, Moisture: Dry
+Time: 2024-11-26 14:29:31, Moisture: Dry
+Time: 2024-11-26 14:29:31, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:33, Moisture: Dry
+Time: 2024-11-26 14:29:33, Moisture: Dry
+Time: 2024-11-26 14:29:35, Moisture: Dry
+Time: 2024-11-26 14:29:36, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:29:38, Moisture: Dry
+Time: 2024-11-26 14:29:38, Moisture: Dry
+Time: 2024-11-26 14:29:38, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:38, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:40, Moisture: Dry
+Time: 2024-11-26 14:29:40, Moisture: Dry
+Time: 2024-11-26 14:29:40, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:42, Moisture: Dry
+Time: 2024-11-26 14:29:44, Moisture: Dry
+Time: 2024-11-26 14:29:45, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:45, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:47, Moisture: Dry
+Time: 2024-11-26 14:29:47, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:49, Moisture: Dry
+Time: 2024-11-26 14:29:49, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:49, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:51, Moisture: Dry
+Time: 2024-11-26 14:29:51, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:51, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:53, Moisture: Dry
+Time: 2024-11-26 14:29:53, Moisture: Dry
+Time: 2024-11-26 14:29:54, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:56, Moisture: Dry
+Time: 2024-11-26 14:29:56, Moisture: Dry
+Time: 2024-11-26 14:29:56, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:56, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:29:58, Moisture: Dry
+Time: 2024-11-26 14:29:58, Moisture: Dry
+Time: 2024-11-26 14:29:58, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:30:00, Moisture: Dry
+Time: 2024-11-26 14:30:00, Moisture: Dry
+Time: 2024-11-26 14:30:00, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:30:00, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:30:02, Moisture: Dry
+Time: 2024-11-26 14:30:03, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:30:03, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:30:05, Moisture: Dry
+Time: 2024-11-26 14:30:05, Moisture: Dry
+Time: 2024-11-26 14:30:05, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:30:07, Moisture: Dry
+Time: 2024-11-26 14:30:07, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:30:09, Moisture: Dry
+Time: 2024-11-26 14:30:09, Moisture: Dry
+Time: 2024-11-26 14:30:10, Temperature: 20C, Humidity: 48%
+Time: 2024-11-26 14:30:10, Temperature: 20C, Humidity: 48%
+Time: 2024-11-26 14:30:12, Moisture: Dry
+Time: 2024-11-26 14:30:12, Temperature: 20C, Humidity: 54%
+Time: 2024-11-26 14:30:12, Temperature: 20C, Humidity: 54%
+Time: 2024-11-26 14:30:14, Moisture: Dry
+Time: 2024-11-26 14:30:14, Moisture: Dry
+Time: 2024-11-26 14:30:14, Temperature: 20C, Humidity: 60%
+Time: 2024-11-26 14:30:14, Temperature: 20C, Humidity: 60%
+Time: 2024-11-26 14:30:16, Moisture: Dry
+Time: 2024-11-26 14:30:16, Moisture: Dry
+Time: 2024-11-26 14:30:16, Temperature: 20C, Humidity: 61%
+Time: 2024-11-26 14:30:18, Moisture: Dry
+Time: 2024-11-26 14:30:18, Moisture: Dry
+Time: 2024-11-26 14:30:19, Temperature: 20C, Humidity: 61%
+Time: 2024-11-26 14:30:21, Moisture: Dry
+Time: 2024-11-26 14:30:21, Moisture: Dry
+Time: 2024-11-26 14:30:21, Temperature: 20C, Humidity: 63%
+Time: 2024-11-26 14:30:23, Moisture: Dry
+Time: 2024-11-26 14:30:23, Temperature: 21C, Humidity: 65%
+Time: 2024-11-26 14:30:23, Temperature: 21C, Humidity: 65%
+Time: 2024-11-26 14:30:25, Moisture: Dry
+Time: 2024-11-26 14:30:25, Moisture: Dry
+Time: 2024-11-26 14:30:25, Temperature: 21C, Humidity: 67%
+Time: 2024-11-26 14:30:27, Moisture: Dry
+Time: 2024-11-26 14:30:27, Moisture: Dry
+Time: 2024-11-26 14:30:28, Temperature: 21C, Humidity: 69%
+Time: 2024-11-26 14:30:28, Temperature: 21C, Humidity: 69%
+Time: 2024-11-26 14:30:30, Moisture: Dry
+Time: 2024-11-26 14:30:30, Moisture: Dry
+Time: 2024-11-26 14:30:30, Temperature: 21C, Humidity: 70%
+Time: 2024-11-26 14:30:30, Temperature: 21C, Humidity: 70%
+Time: 2024-11-26 14:30:32, Moisture: Dry
+Time: 2024-11-26 14:30:32, Moisture: Dry
+Time: 2024-11-26 14:30:32, Temperature: 21C, Humidity: 70%
+Time: 2024-11-26 14:30:34, Moisture: Dry
+Time: 2024-11-26 14:30:34, Temperature: 21C, Humidity: 70%
+Time: 2024-11-26 14:30:34, Temperature: 21C, Humidity: 70%
+Time: 2024-11-26 14:30:36, Moisture: Dry
+Time: 2024-11-26 14:30:36, Moisture: Dry
+Time: 2024-11-26 14:30:37, Temperature: 21C, Humidity: 70%
+Time: 2024-11-26 14:30:37, Temperature: 21C, Humidity: 70%
+Time: 2024-11-26 14:30:39, Moisture: Dry
+Time: 2024-11-26 14:30:39, Moisture: Dry
+Time: 2024-11-26 14:30:39, Temperature: 21C, Humidity: 69%
+Time: 2024-11-26 14:30:39, Temperature: 21C, Humidity: 69%
+Time: 2024-11-26 14:30:41, Moisture: Dry
+Time: 2024-11-26 14:30:41, Moisture: Dry
+Time: 2024-11-26 14:30:41, Temperature: 21C, Humidity: 68%
+Time: 2024-11-26 14:30:41, Temperature: 21C, Humidity: 68%
+Time: 2024-11-26 14:30:43, Moisture: Dry
+Time: 2024-11-26 14:30:43, Moisture: Dry
+Time: 2024-11-26 14:30:43, Temperature: 21C, Humidity: 66%
+Time: 2024-11-26 14:30:45, Moisture: Dry
+Time: 2024-11-26 14:30:46, Temperature: 21C, Humidity: 65%
+Time: 2024-11-26 14:30:48, Moisture: Dry
+Time: 2024-11-26 14:30:48, Temperature: 21C, Humidity: 64%
+Time: 2024-11-26 14:30:50, Moisture: Dry
+Time: 2024-11-26 14:30:50, Moisture: Dry
+Time: 2024-11-26 14:30:50, Temperature: 21C, Humidity: 62%
+Time: 2024-11-26 14:30:52, Moisture: Dry
+Time: 2024-11-26 14:30:52, Temperature: 21C, Humidity: 61%
+Time: 2024-11-26 14:30:52, Temperature: 21C, Humidity: 61%
+Time: 2024-11-26 14:30:54, Moisture: Dry
+Time: 2024-11-26 14:30:55, Temperature: 21C, Humidity: 60%
+Time: 2024-11-26 14:30:55, Temperature: 21C, Humidity: 60%
+Time: 2024-11-26 14:30:57, Moisture: Dry
+Time: 2024-11-26 14:30:57, Temperature: 21C, Humidity: 58%
+Time: 2024-11-26 14:30:57, Temperature: 21C, Humidity: 58%
+Time: 2024-11-26 14:30:59, Moisture: Dry
+Time: 2024-11-26 14:30:59, Temperature: 21C, Humidity: 57%
+Time: 2024-11-26 14:30:59, Temperature: 21C, Humidity: 57%
+Time: 2024-11-26 14:31:01, Moisture: Dry
+Time: 2024-11-26 14:31:01, Moisture: Dry
+Time: 2024-11-26 14:31:01, Temperature: 21C, Humidity: 56%
+Time: 2024-11-26 14:31:01, Temperature: 21C, Humidity: 56%
+Time: 2024-11-26 14:31:03, Moisture: Dry
+Time: 2024-11-26 14:31:03, Moisture: Dry
+Time: 2024-11-26 14:31:04, Temperature: 21C, Humidity: 55%
+Time: 2024-11-26 14:31:04, Temperature: 21C, Humidity: 55%
+Time: 2024-11-26 14:31:06, Moisture: Dry
+Time: 2024-11-26 14:31:06, Moisture: Dry
+Time: 2024-11-26 14:31:06, Temperature: 21C, Humidity: 54%
+Time: 2024-11-26 14:31:06, Temperature: 21C, Humidity: 54%
+Time: 2024-11-26 14:31:08, Moisture: Dry
+Time: 2024-11-26 14:31:08, Moisture: Dry
+Time: 2024-11-26 14:31:10, Moisture: Dry
+Time: 2024-11-26 14:31:10, Moisture: Dry
+Time: 2024-11-26 14:31:11, Temperature: 21C, Humidity: 52%
+Time: 2024-11-26 14:31:13, Moisture: Dry
+Time: 2024-11-26 14:31:13, Temperature: 21C, Humidity: 51%
+Time: 2024-11-26 14:31:15, Moisture: Dry
+Time: 2024-11-26 14:31:15, Moisture: Dry
+Time: 2024-11-26 14:31:15, Temperature: 21C, Humidity: 50%
+Time: 2024-11-26 14:31:15, Temperature: 21C, Humidity: 50%
+Time: 2024-11-26 14:31:17, Moisture: Dry
+Time: 2024-11-26 14:31:17, Moisture: Dry
+Time: 2024-11-26 14:31:17, Temperature: 21C, Humidity: 49%
+Time: 2024-11-26 14:31:19, Moisture: Dry
+Time: 2024-11-26 14:31:20, Temperature: 20C, Humidity: 48%
+Time: 2024-11-26 14:31:22, Moisture: Dry
+Time: 2024-11-26 14:31:22, Moisture: Dry
+Time: 2024-11-26 14:31:22, Temperature: 20C, Humidity: 47%
+Time: 2024-11-26 14:31:22, Temperature: 20C, Humidity: 47%
+Time: 2024-11-26 14:31:24, Moisture: Dry
+Time: 2024-11-26 14:31:24, Moisture: Dry
+Time: 2024-11-26 14:31:24, Temperature: 20C, Humidity: 47%
+Time: 2024-11-26 14:31:26, Moisture: Dry
+Time: 2024-11-26 14:31:26, Temperature: 20C, Humidity: 46%
+Time: 2024-11-26 14:31:26, Temperature: 20C, Humidity: 46%
+Time: 2024-11-26 14:31:28, Moisture: Dry
+Time: 2024-11-26 14:31:29, Temperature: 20C, Humidity: 46%
+Time: 2024-11-26 14:31:29, Temperature: 20C, Humidity: 46%
+Time: 2024-11-26 14:31:31, Moisture: Dry
+Time: 2024-11-26 14:31:31, Moisture: Dry
+Time: 2024-11-26 14:31:31, Temperature: 20C, Humidity: 45%
+Time: 2024-11-26 14:31:31, Temperature: 20C, Humidity: 45%
+Time: 2024-11-26 14:31:33, Moisture: Dry
+Time: 2024-11-26 14:31:33, Temperature: 20C, Humidity: 45%
+Time: 2024-11-26 14:31:33, Moisture: Dry
+Time: 2024-11-26 14:31:33, Temperature: 20C, Humidity: 45%
+Time: 2024-11-26 14:31:35, Moisture: Dry
+Time: 2024-11-26 14:31:35, Temperature: 20C, Humidity: 45%
+Time: 2024-11-26 14:31:37, Moisture: Dry
+Time: 2024-11-26 14:31:38, Temperature: 20C, Humidity: 44%
+Time: 2024-11-26 14:31:38, Temperature: 20C, Humidity: 44%
+Time: 2024-11-26 14:31:40, Moisture: Dry
+Time: 2024-11-26 14:31:40, Moisture: Dry
+Time: 2024-11-26 14:31:40, Temperature: 20C, Humidity: 44%
+Time: 2024-11-26 14:31:40, Temperature: 20C, Humidity: 44%
+Time: 2024-11-26 14:31:42, Moisture: Dry
+Time: 2024-11-26 14:31:42, Moisture: Dry
+Time: 2024-11-26 14:31:42, Temperature: 20C, Humidity: 44%
+Time: 2024-11-26 14:31:44, Moisture: Dry
+Time: 2024-11-26 14:31:44, Moisture: Dry
+Time: 2024-11-26 14:31:44, Temperature: 20C, Humidity: 44%
+Time: 2024-11-26 14:31:44, Temperature: 20C, Humidity: 44%
+Time: 2024-11-26 14:31:46, Moisture: Dry
+Time: 2024-11-26 14:31:47, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:31:47, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:31:49, Moisture: Dry
+Time: 2024-11-26 14:31:49, Moisture: Dry
+Time: 2024-11-26 14:31:49, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:31:51, Moisture: Dry
+Time: 2024-11-26 14:31:51, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:31:51, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:31:53, Moisture: Dry
+Time: 2024-11-26 14:31:53, Moisture: Dry
+Time: 2024-11-26 14:31:53, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:31:55, Moisture: Dry
+Time: 2024-11-26 14:31:55, Moisture: Dry
+Time: 2024-11-26 14:31:56, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:31:56, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:31:58, Moisture: Dry
+Time: 2024-11-26 14:31:58, Temperature: 20C, Humidity: 43%
+Time: 2024-11-26 14:32:00, Moisture: Dry
+Time: 2024-11-26 14:32:00, Temperature: 20C, Humidity: 42%
+Time: 2024-11-26 14:32:00, Temperature: 20C, Humidity: 42%
+Time: 2024-11-26 14:32:02, Moisture: Dry
+Time: 2024-11-26 14:32:02, Moisture: Dry
+Time: 2024-11-26 14:32:03, Temperature: 20C, Humidity: 42%
+Time: 2024-11-26 14:32:03, Temperature: 20C, Humidity: 42%
+Time: 2024-11-26 14:32:05, Moisture: Dry
+Time: 2024-11-26 14:32:05, Moisture: Dry
+Time: 2024-11-26 14:32:05, Temperature: 20C, Humidity: 42%
+Time: 2024-11-26 14:32:07, Moisture: Dry
+Time: 2024-11-26 14:32:07, Moisture: Dry
+Time: 2024-11-26 14:32:07, Temperature: 20C, Humidity: 42%
+Time: 2024-11-26 14:32:07, Temperature: 20C, Humidity: 42%
+Time: 2024-11-26 14:32:09, Moisture: Dry
+Time: 2024-11-26 14:32:09, Temperature: 20C, Humidity: 41%
+Time: 2024-11-26 14:32:09, Temperature: 20C, Humidity: 41%
+Time: 2024-11-26 14:32:11, Moisture: Dry
+Time: 2024-11-26 14:32:14, Moisture: Dry
+Time: 2024-11-26 14:32:14, Moisture: Dry
+Time: 2024-11-26 14:32:16, Moisture: Dry
+Time: 2024-11-26 14:32:16, Moisture: Dry
+Time: 2024-11-26 14:32:18, Moisture: Dry
+Time: 2024-11-26 14:32:18, Temperature: 20C, Humidity: 41%
+Time: 2024-11-26 14:32:20, Moisture: Dry
+Time: 2024-11-26 14:32:20, Moisture: Dry
+Time: 2024-11-26 14:32:21, Temperature: 20C, Humidity: 41%
+Time: 2024-11-26 14:34:24, Moisture: Dry
+Time: 2024-11-26 14:34:24, Moisture: Dry
+Time: 2024-11-26 14:34:24, Temperature: 20C, Humidity: 41%
+Time: 2024-11-26 14:34:26, Moisture: Dry
+Time: 2024-11-26 14:34:26, Moisture: Dry
+Time: 2024-11-26 14:34:28, Moisture: Dry
+Time: 2024-11-26 14:34:28, Moisture: Dry
+Time: 2024-11-26 14:34:30, Moisture: Dry
+Time: 2024-11-26 14:34:30, Moisture: Dry
+Time: 2024-11-26 14:34:31, Temperature: 20C, Humidity: 40%
+Time: 2024-11-26 14:34:33, Moisture: Dry
+Time: 2024-11-26 14:34:33, Temperature: 20C, Humidity: 39%
+Time: 2024-11-26 14:34:35, Moisture: Dry
+Time: 2024-11-26 14:34:35, Moisture: Dry
+Time: 2024-11-26 14:34:37, Moisture: Dry
+Time: 2024-11-26 14:34:37, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:39, Moisture: Dry
+Time: 2024-11-26 14:34:42, Moisture: Dry
+Time: 2024-11-26 14:34:42, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:42, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:44, Moisture: Dry
+Time: 2024-11-26 14:34:44, Moisture: Dry
+Time: 2024-11-26 14:34:44, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:44, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:46, Moisture: Dry
+Time: 2024-11-26 14:34:47, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:47, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:49, Moisture: Dry
+Time: 2024-11-26 14:34:49, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:49, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:51, Moisture: Dry
+Time: 2024-11-26 14:34:51, Moisture: Dry
+Time: 2024-11-26 14:34:51, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:53, Moisture: Dry
+Time: 2024-11-26 14:34:53, Moisture: Dry
+Time: 2024-11-26 14:34:55, Moisture: Dry
+Time: 2024-11-26 14:34:55, Moisture: Dry
+Time: 2024-11-26 14:34:56, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:56, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:34:58, Moisture: Dry
+Time: 2024-11-26 14:34:58, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:00, Moisture: Dry
+Time: 2024-11-26 14:35:00, Moisture: Dry
+Time: 2024-11-26 14:35:00, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:00, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:02, Moisture: Dry
+Time: 2024-11-26 14:35:02, Moisture: Dry
+Time: 2024-11-26 14:35:02, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:02, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:04, Moisture: Dry
+Time: 2024-11-26 14:35:05, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:07, Moisture: Dry
+Time: 2024-11-26 14:35:07, Moisture: Dry
+Time: 2024-11-26 14:35:07, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:07, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:09, Moisture: Dry
+Time: 2024-11-26 14:35:09, Moisture: Dry
+Time: 2024-11-26 14:35:09, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:11, Moisture: Dry
+Time: 2024-11-26 14:35:11, Moisture: Dry
+Time: 2024-11-26 14:35:13, Moisture: Dry
+Time: 2024-11-26 14:35:14, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:16, Moisture: Dry
+Time: 2024-11-26 14:35:16, Moisture: Dry
+Time: 2024-11-26 14:35:16, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:16, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:18, Moisture: Dry
+Time: 2024-11-26 14:35:18, Moisture: Dry
+Time: 2024-11-26 14:35:18, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:18, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:20, Moisture: Dry
+Time: 2024-11-26 14:35:20, Moisture: Dry
+Time: 2024-11-26 14:35:20, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:20, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:22, Moisture: Dry
+Time: 2024-11-26 14:35:22, Moisture: Dry
+Time: 2024-11-26 14:35:23, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:23, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:25, Moisture: Dry
+Time: 2024-11-26 14:35:25, Moisture: Dry
+Time: 2024-11-26 14:35:25, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:25, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:27, Moisture: Dry
+Time: 2024-11-26 14:35:27, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:29, Moisture: Dry
+Time: 2024-11-26 14:35:29, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:29, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:31, Moisture: Dry
+Time: 2024-11-26 14:35:31, Moisture: Dry
+Time: 2024-11-26 14:35:32, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:32, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:34, Moisture: Dry
+Time: 2024-11-26 14:35:34, Moisture: Dry
+Time: 2024-11-26 14:35:34, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:34, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:36, Moisture: Dry
+Time: 2024-11-26 14:35:36, Moisture: Dry
+Time: 2024-11-26 14:35:38, Moisture: Dry
+Time: 2024-11-26 14:35:38, Moisture: Dry
+Time: 2024-11-26 14:35:38, Temperature: 20C, Humidity: 37%
+Time: 2024-11-26 14:35:38, Temperature: 20C, Humidity: 37%
+Time: 2024-11-26 14:35:40, Moisture: Dry
+Time: 2024-11-26 14:35:40, Moisture: Dry
+Time: 2024-11-26 14:35:41, Temperature: 20C, Humidity: 37%
+Time: 2024-11-26 14:35:41, Temperature: 20C, Humidity: 37%
+Time: 2024-11-26 14:35:43, Moisture: Dry
+Time: 2024-11-26 14:35:43, Moisture: Dry
+Time: 2024-11-26 14:35:43, Temperature: 20C, Humidity: 37%
+Time: 2024-11-26 14:35:43, Temperature: 20C, Humidity: 37%
+Time: 2024-11-26 14:35:45, Moisture: Dry
+Time: 2024-11-26 14:35:45, Temperature: 20C, Humidity: 37%
+Time: 2024-11-26 14:35:45, Temperature: 20C, Humidity: 37%
+Time: 2024-11-26 14:35:47, Moisture: Dry
+Time: 2024-11-26 14:35:48, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:48, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:50, Moisture: Dry
+Time: 2024-11-26 14:35:50, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:50, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:52, Moisture: Dry
+Time: 2024-11-26 14:35:52, Moisture: Dry
+Time: 2024-11-26 14:35:52, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:52, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:54, Moisture: Dry
+Time: 2024-11-26 14:35:54, Moisture: Dry
+Time: 2024-11-26 14:35:54, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:54, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:56, Moisture: Dry
+Time: 2024-11-26 14:35:57, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:57, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:35:59, Moisture: Dry
+Time: 2024-11-26 14:35:59, Moisture: Dry
+Time: 2024-11-26 14:35:59, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:01, Moisture: Dry
+Time: 2024-11-26 14:36:01, Moisture: Dry
+Time: 2024-11-26 14:36:01, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:01, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:03, Moisture: Dry
+Time: 2024-11-26 14:36:03, Moisture: Dry
+Time: 2024-11-26 14:36:03, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:03, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:05, Moisture: Dry
+Time: 2024-11-26 14:36:05, Moisture: Dry
+Time: 2024-11-26 14:36:06, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:06, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:08, Moisture: Dry
+Time: 2024-11-26 14:36:08, Moisture: Dry
+Time: 2024-11-26 14:36:08, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:08, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:10, Moisture: Dry
+Time: 2024-11-26 14:36:10, Moisture: Dry
+Time: 2024-11-26 14:36:10, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:10, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:12, Moisture: Dry
+Time: 2024-11-26 14:36:14, Moisture: Dry
+Time: 2024-11-26 14:36:14, Moisture: Dry
+Time: 2024-11-26 14:36:15, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:15, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:17, Moisture: Dry
+Time: 2024-11-26 14:36:17, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:17, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:19, Moisture: Dry
+Time: 2024-11-26 14:36:19, Moisture: Dry
+Time: 2024-11-26 14:36:19, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:19, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:21, Moisture: Dry
+Time: 2024-11-26 14:36:21, Moisture: Dry
+Time: 2024-11-26 14:36:21, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:21, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:23, Moisture: Dry
+Time: 2024-11-26 14:36:23, Moisture: Dry
+Time: 2024-11-26 14:36:24, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:26, Moisture: Dry
+Time: 2024-11-26 14:36:26, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:28, Moisture: Dry
+Time: 2024-11-26 14:36:28, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:28, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:30, Moisture: Dry
+Time: 2024-11-26 14:36:30, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:30, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:32, Moisture: Dry
+Time: 2024-11-26 14:36:33, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:33, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:35, Moisture: Dry
+Time: 2024-11-26 14:36:35, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:35, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:37, Moisture: Dry
+Time: 2024-11-26 14:36:37, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:39, Moisture: Dry
+Time: 2024-11-26 14:36:39, Moisture: Dry
+Time: 2024-11-26 14:36:41, Moisture: Dry
+Time: 2024-11-26 14:36:41, Moisture: Dry
+Time: 2024-11-26 14:36:44, Moisture: Dry
+Time: 2024-11-26 14:36:44, Moisture: Dry
+Time: 2024-11-26 14:36:44, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:44, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:46, Moisture: Dry
+Time: 2024-11-26 14:36:46, Moisture: Dry
+Time: 2024-11-26 14:36:46, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:46, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:48, Moisture: Dry
+Time: 2024-11-26 14:36:48, Moisture: Dry
+Time: 2024-11-26 14:36:49, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:51, Moisture: Dry
+Time: 2024-11-26 14:36:51, Moisture: Dry
+Time: 2024-11-26 14:36:51, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:51, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:53, Moisture: Dry
+Time: 2024-11-26 14:36:53, Moisture: Dry
+Time: 2024-11-26 14:36:53, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:36:55, Moisture: Dry
+Time: 2024-11-26 14:36:55, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:36:55, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:36:57, Moisture: Dry
+Time: 2024-11-26 14:36:57, Moisture: Dry
+Time: 2024-11-26 14:36:58, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:36:58, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:00, Moisture: Dry
+Time: 2024-11-26 14:37:00, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:02, Moisture: Dry
+Time: 2024-11-26 14:37:02, Moisture: Dry
+Time: 2024-11-26 14:37:04, Moisture: Dry
+Time: 2024-11-26 14:37:04, Moisture: Dry
+Time: 2024-11-26 14:37:04, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:04, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:06, Moisture: Dry
+Time: 2024-11-26 14:37:06, Moisture: Dry
+Time: 2024-11-26 14:37:07, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:09, Moisture: Dry
+Time: 2024-11-26 14:37:09, Moisture: Dry
+Time: 2024-11-26 14:37:09, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:37:09, Temperature: 20C, Humidity: 38%
+Time: 2024-11-26 14:37:11, Moisture: Dry
+Time: 2024-11-26 14:37:11, Moisture: Dry
+Time: 2024-11-26 14:37:11, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:11, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:13, Moisture: Dry
+Time: 2024-11-26 14:37:13, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:15, Moisture: Dry
+Time: 2024-11-26 14:37:16, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:18, Moisture: Dry
+Time: 2024-11-26 14:37:18, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:20, Moisture: Dry
+Time: 2024-11-26 14:37:20, Moisture: Dry
+Time: 2024-11-26 14:37:20, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:22, Moisture: Dry
+Time: 2024-11-26 14:37:22, Moisture: Dry
+Time: 2024-11-26 14:37:22, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:22, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:24, Moisture: Dry
+Time: 2024-11-26 14:37:24, Moisture: Dry
+Time: 2024-11-26 14:37:25, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:25, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:27, Moisture: Dry
+Time: 2024-11-26 14:37:29, Moisture: Dry
+Time: 2024-11-26 14:37:29, Moisture: Dry
+Time: 2024-11-26 14:37:29, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:29, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:31, Moisture: Dry
+Time: 2024-11-26 14:37:31, Moisture: Dry
+Time: 2024-11-26 14:37:31, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:31, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:33, Moisture: Dry
+Time: 2024-11-26 14:37:33, Moisture: Dry
+Time: 2024-11-26 14:37:34, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:34, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:36, Moisture: Dry
+Time: 2024-11-26 14:37:36, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:36, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:38, Moisture: Dry
+Time: 2024-11-26 14:37:38, Moisture: Dry
+Time: 2024-11-26 14:37:40, Moisture: Dry
+Time: 2024-11-26 14:37:40, Moisture: Dry
+Time: 2024-11-26 14:37:40, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:43, Moisture: Dry
+Time: 2024-11-26 14:37:43, Moisture: Dry
+Time: 2024-11-26 14:37:43, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:45, Moisture: Dry
+Time: 2024-11-26 14:37:45, Moisture: Dry
+Time: 2024-11-26 14:37:45, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:45, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:47, Moisture: Dry
+Time: 2024-11-26 14:37:47, Moisture: Dry
+Time: 2024-11-26 14:37:47, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:47, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:49, Moisture: Dry
+Time: 2024-11-26 14:37:49, Moisture: Dry
+Time: 2024-11-26 14:37:50, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:50, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:52, Moisture: Dry
+Time: 2024-11-26 14:37:52, Moisture: Dry
+Time: 2024-11-26 14:37:54, Moisture: Dry
+Time: 2024-11-26 14:37:54, Moisture: Dry
+Time: 2024-11-26 14:37:54, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:54, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:56, Moisture: Dry
+Time: 2024-11-26 14:37:56, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:58, Moisture: Dry
+Time: 2024-11-26 14:37:58, Moisture: Dry
+Time: 2024-11-26 14:37:59, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:37:59, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:38:01, Moisture: Dry
+Time: 2024-11-26 14:38:01, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:38:03, Moisture: Dry
+Time: 2024-11-26 14:38:03, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:38:03, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:38:05, Moisture: Dry
+Time: 2024-11-26 14:38:05, Moisture: Dry
+Time: 2024-11-26 14:38:05, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:38:05, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:38:07, Moisture: Dry
+Time: 2024-11-26 14:38:07, Moisture: Dry
+Time: 2024-11-26 14:38:08, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:08, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:10, Moisture: Dry
+Time: 2024-11-26 14:38:10, Moisture: Dry
+Time: 2024-11-26 14:38:10, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:10, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:12, Moisture: Dry
+Time: 2024-11-26 14:38:12, Moisture: Dry
+Time: 2024-11-26 14:38:14, Moisture: Dry
+Time: 2024-11-26 14:38:16, Moisture: Dry
+Time: 2024-11-26 14:38:16, Moisture: Dry
+Time: 2024-11-26 14:38:17, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:17, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:19, Moisture: Dry
+Time: 2024-11-26 14:38:19, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:21, Moisture: Dry
+Time: 2024-11-26 14:38:21, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:21, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:23, Moisture: Dry
+Time: 2024-11-26 14:38:23, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:23, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:25, Moisture: Dry
+Time: 2024-11-26 14:38:26, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:26, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:28, Moisture: Dry
+Time: 2024-11-26 14:38:28, Moisture: Dry
+Time: 2024-11-26 14:38:28, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:28, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:30, Moisture: Dry
+Time: 2024-11-26 14:38:30, Moisture: Dry
+Time: 2024-11-26 14:38:30, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:30, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:32, Moisture: Dry
+Time: 2024-11-26 14:38:32, Moisture: Dry
+Time: 2024-11-26 14:38:32, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:32, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:34, Moisture: Dry
+Time: 2024-11-26 14:38:35, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:35, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:37, Moisture: Dry
+Time: 2024-11-26 14:38:37, Moisture: Dry
+Time: 2024-11-26 14:38:37, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:39, Moisture: Dry
+Time: 2024-11-26 14:38:39, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:39, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:41, Moisture: Dry
+Time: 2024-11-26 14:38:41, Moisture: Dry
+Time: 2024-11-26 14:38:41, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:41, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:43, Moisture: Dry
+Time: 2024-11-26 14:38:43, Moisture: Dry
+Time: 2024-11-26 14:38:44, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:44, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:46, Moisture: Dry
+Time: 2024-11-26 14:38:46, Moisture: Dry
+Time: 2024-11-26 14:38:48, Moisture: Dry
+Time: 2024-11-26 14:38:48, Moisture: Dry
+Time: 2024-11-26 14:38:48, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:48, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:50, Moisture: Dry
+Time: 2024-11-26 14:38:51, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:51, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:53, Moisture: Dry
+Time: 2024-11-26 14:38:53, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:53, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:38:55, Moisture: Dry
+Time: 2024-11-26 14:38:55, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:38:57, Moisture: Dry
+Time: 2024-11-26 14:38:57, Moisture: Dry
+Time: 2024-11-26 14:38:57, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:38:57, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:38:59, Moisture: Dry
+Time: 2024-11-26 14:38:59, Moisture: Dry
+Time: 2024-11-26 14:39:00, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:00, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:02, Moisture: Dry
+Time: 2024-11-26 14:39:02, Moisture: Dry
+Time: 2024-11-26 14:39:02, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:04, Moisture: Dry
+Time: 2024-11-26 14:39:04, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:06, Moisture: Dry
+Time: 2024-11-26 14:39:06, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:08, Moisture: Dry
+Time: 2024-11-26 14:39:08, Moisture: Dry
+Time: 2024-11-26 14:39:09, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:11, Moisture: Dry
+Time: 2024-11-26 14:39:11, Moisture: Dry
+Time: 2024-11-26 14:39:11, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:11, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:13, Moisture: Dry
+Time: 2024-11-26 14:39:13, Moisture: Dry
+Time: 2024-11-26 14:39:15, Moisture: Dry
+Time: 2024-11-26 14:39:15, Moisture: Dry
+Time: 2024-11-26 14:39:15, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:17, Moisture: Dry
+Time: 2024-11-26 14:39:18, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:20, Moisture: Dry
+Time: 2024-11-26 14:39:20, Moisture: Dry
+Time: 2024-11-26 14:39:20, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:22, Moisture: Dry
+Time: 2024-11-26 14:39:22, Moisture: Dry
+Time: 2024-11-26 14:39:22, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:22, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:24, Moisture: Dry
+Time: 2024-11-26 14:39:24, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:24, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:39:26, Moisture: Dry
+Time: 2024-11-26 14:39:26, Moisture: Dry
+Time: 2024-11-26 14:39:27, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:27, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:29, Moisture: Dry
+Time: 2024-11-26 14:39:29, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:29, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:31, Moisture: Dry
+Time: 2024-11-26 14:39:31, Moisture: Dry
+Time: 2024-11-26 14:39:31, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:33, Moisture: Dry
+Time: 2024-11-26 14:39:33, Moisture: Dry
+Time: 2024-11-26 14:39:33, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:33, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:35, Moisture: Dry
+Time: 2024-11-26 14:39:35, Moisture: Dry
+Time: 2024-11-26 14:39:36, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:36, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:38, Moisture: Dry
+Time: 2024-11-26 14:39:38, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:40, Moisture: Dry
+Time: 2024-11-26 14:39:40, Moisture: Dry
+Time: 2024-11-26 14:39:40, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:40, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:42, Moisture: Dry
+Time: 2024-11-26 14:39:42, Moisture: Dry
+Time: 2024-11-26 14:39:42, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:42, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:44, Moisture: Dry
+Time: 2024-11-26 14:39:45, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:45, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:47, Moisture: Dry
+Time: 2024-11-26 14:39:47, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:47, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:49, Moisture: Dry
+Time: 2024-11-26 14:39:49, Moisture: Dry
+Time: 2024-11-26 14:39:49, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:49, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:51, Moisture: Dry
+Time: 2024-11-26 14:39:51, Moisture: Dry
+Time: 2024-11-26 14:39:52, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:54, Moisture: Dry
+Time: 2024-11-26 14:39:54, Moisture: Dry
+Time: 2024-11-26 14:39:54, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:56, Moisture: Dry
+Time: 2024-11-26 14:39:56, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:56, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:39:58, Moisture: Dry
+Time: 2024-11-26 14:39:58, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:00, Moisture: Dry
+Time: 2024-11-26 14:40:00, Moisture: Dry
+Time: 2024-11-26 14:40:01, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:03, Moisture: Dry
+Time: 2024-11-26 14:40:03, Moisture: Dry
+Time: 2024-11-26 14:40:03, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:03, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:05, Moisture: Dry
+Time: 2024-11-26 14:40:05, Moisture: Dry
+Time: 2024-11-26 14:40:05, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:07, Moisture: Dry
+Time: 2024-11-26 14:40:07, Moisture: Dry
+Time: 2024-11-26 14:40:07, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:09, Moisture: Dry
+Time: 2024-11-26 14:40:09, Moisture: Dry
+Time: 2024-11-26 14:40:10, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:10, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:12, Moisture: Dry
+Time: 2024-11-26 14:40:12, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:14, Moisture: Dry
+Time: 2024-11-26 14:40:14, Moisture: Dry
+Time: 2024-11-26 14:40:14, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:14, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:16, Moisture: Dry
+Time: 2024-11-26 14:40:16, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:18, Moisture: Dry
+Time: 2024-11-26 14:40:18, Moisture: Dry
+Time: 2024-11-26 14:40:19, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:21, Moisture: Dry
+Time: 2024-11-26 14:40:21, Moisture: Dry
+Time: 2024-11-26 14:40:21, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:23, Moisture: Dry
+Time: 2024-11-26 14:40:23, Moisture: Dry
+Time: 2024-11-26 14:40:23, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:23, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:25, Moisture: Dry
+Time: 2024-11-26 14:40:25, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:25, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:27, Moisture: Dry
+Time: 2024-11-26 14:40:27, Moisture: Dry
+Time: 2024-11-26 14:40:28, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:28, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:30, Moisture: Dry
+Time: 2024-11-26 14:40:30, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:30, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:32, Moisture: Dry
+Time: 2024-11-26 14:40:32, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:32, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:34, Moisture: Dry
+Time: 2024-11-26 14:40:34, Moisture: Dry
+Time: 2024-11-26 14:40:34, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:34, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:36, Moisture: Dry
+Time: 2024-11-26 14:40:36, Moisture: Dry
+Time: 2024-11-26 14:40:37, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:37, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:39, Moisture: Dry
+Time: 2024-11-26 14:40:39, Moisture: Dry
+Time: 2024-11-26 14:40:39, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:41, Moisture: Dry
+Time: 2024-11-26 14:40:41, Moisture: Dry
+Time: 2024-11-26 14:40:41, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:41, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:43, Moisture: Dry
+Time: 2024-11-26 14:40:43, Moisture: Dry
+Time: 2024-11-26 14:40:44, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:46, Moisture: Dry
+Time: 2024-11-26 14:40:46, Moisture: Dry
+Time: 2024-11-26 14:40:46, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:46, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:48, Moisture: Dry
+Time: 2024-11-26 14:40:48, Moisture: Dry
+Time: 2024-11-26 14:40:48, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:48, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:50, Moisture: Dry
+Time: 2024-11-26 14:40:50, Moisture: Dry
+Time: 2024-11-26 14:40:50, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:50, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:52, Moisture: Dry
+Time: 2024-11-26 14:40:52, Moisture: Dry
+Time: 2024-11-26 14:40:53, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:53, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:55, Moisture: Dry
+Time: 2024-11-26 14:40:55, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:55, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:57, Moisture: Dry
+Time: 2024-11-26 14:40:57, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:57, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:59, Moisture: Dry
+Time: 2024-11-26 14:40:59, Moisture: Dry
+Time: 2024-11-26 14:40:59, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:40:59, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:01, Moisture: Dry
+Time: 2024-11-26 14:41:01, Moisture: Dry
+Time: 2024-11-26 14:41:02, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:02, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:04, Moisture: Dry
+Time: 2024-11-26 14:41:04, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:06, Moisture: Dry
+Time: 2024-11-26 14:41:06, Moisture: Dry
+Time: 2024-11-26 14:41:06, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:06, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:08, Moisture: Dry
+Time: 2024-11-26 14:41:08, Moisture: Dry
+Time: 2024-11-26 14:41:10, Moisture: Dry
+Time: 2024-11-26 14:41:10, Moisture: Dry
+Time: 2024-11-26 14:41:11, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:11, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:13, Moisture: Dry
+Time: 2024-11-26 14:41:13, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:15, Moisture: Dry
+Time: 2024-11-26 14:41:15, Moisture: Dry
+Time: 2024-11-26 14:41:15, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:15, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:17, Moisture: Dry
+Time: 2024-11-26 14:41:17, Moisture: Dry
+Time: 2024-11-26 14:41:17, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:17, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:19, Moisture: Dry
+Time: 2024-11-26 14:41:19, Moisture: Dry
+Time: 2024-11-26 14:41:20, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:20, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:22, Moisture: Dry
+Time: 2024-11-26 14:41:22, Moisture: Dry
+Time: 2024-11-26 14:41:22, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:22, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:24, Moisture: Dry
+Time: 2024-11-26 14:41:24, Moisture: Dry
+Time: 2024-11-26 14:41:24, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:24, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:26, Moisture: Dry
+Time: 2024-11-26 14:41:26, Moisture: Dry
+Time: 2024-11-26 14:41:26, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:26, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:28, Moisture: Dry
+Time: 2024-11-26 14:41:28, Moisture: Dry
+Time: 2024-11-26 14:41:29, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:29, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:31, Moisture: Dry
+Time: 2024-11-26 14:41:31, Moisture: Dry
+Time: 2024-11-26 14:41:31, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:31, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:33, Moisture: Dry
+Time: 2024-11-26 14:41:33, Moisture: Dry
+Time: 2024-11-26 14:41:33, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:33, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:35, Moisture: Dry
+Time: 2024-11-26 14:41:36, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:36, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:41:38, Moisture: Dry
+Time: 2024-11-26 14:41:38, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:40, Moisture: Dry
+Time: 2024-11-26 14:41:40, Moisture: Dry
+Time: 2024-11-26 14:41:40, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:42, Moisture: Dry
+Time: 2024-11-26 14:41:42, Moisture: Dry
+Time: 2024-11-26 14:41:42, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:42, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:44, Moisture: Dry
+Time: 2024-11-26 14:41:45, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:45, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:41:47, Moisture: Dry
+Time: 2024-11-26 14:41:47, Moisture: Dry
+Time: 2024-11-26 14:41:47, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:41:47, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:41:49, Moisture: Dry
+Time: 2024-11-26 14:41:51, Moisture: Dry
+Time: 2024-11-26 14:41:51, Moisture: Dry
+Time: 2024-11-26 14:41:51, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:41:51, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:41:53, Moisture: Dry
+Time: 2024-11-26 14:41:53, Moisture: Dry
+Time: 2024-11-26 14:41:54, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:41:54, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:41:56, Moisture: Dry
+Time: 2024-11-26 14:41:56, Moisture: Dry
+Time: 2024-11-26 14:41:56, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:41:56, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:41:58, Moisture: Dry
+Time: 2024-11-26 14:41:58, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:00, Moisture: Dry
+Time: 2024-11-26 14:42:00, Moisture: Dry
+Time: 2024-11-26 14:42:00, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:00, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:02, Moisture: Dry
+Time: 2024-11-26 14:42:03, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:03, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:05, Moisture: Dry
+Time: 2024-11-26 14:42:05, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:07, Moisture: Dry
+Time: 2024-11-26 14:42:07, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:07, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:09, Moisture: Dry
+Time: 2024-11-26 14:42:11, Moisture: Dry
+Time: 2024-11-26 14:42:11, Moisture: Dry
+Time: 2024-11-26 14:42:12, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:12, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:14, Moisture: Dry
+Time: 2024-11-26 14:42:14, Moisture: Dry
+Time: 2024-11-26 14:42:14, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:14, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:16, Moisture: Dry
+Time: 2024-11-26 14:42:18, Moisture: Dry
+Time: 2024-11-26 14:42:18, Temperature: 21C, Humidity: 39%
+Time: 2024-11-26 14:42:18, Temperature: 21C, Humidity: 39%
+Time: 2024-11-26 14:42:20, Moisture: Dry
+Time: 2024-11-26 14:42:20, Moisture: Dry
+Time: 2024-11-26 14:42:21, Temperature: 21C, Humidity: 39%
+Time: 2024-11-26 14:42:21, Temperature: 21C, Humidity: 39%
+Time: 2024-11-26 14:42:23, Moisture: Dry
+Time: 2024-11-26 14:42:23, Moisture: Dry
+Time: 2024-11-26 14:42:23, Temperature: 21C, Humidity: 39%
+Time: 2024-11-26 14:42:23, Temperature: 21C, Humidity: 39%
+Time: 2024-11-26 14:42:25, Moisture: Dry
+Time: 2024-11-26 14:42:25, Moisture: Dry
+Time: 2024-11-26 14:42:25, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:25, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:27, Moisture: Dry
+Time: 2024-11-26 14:42:28, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:28, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:30, Moisture: Dry
+Time: 2024-11-26 14:42:30, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:30, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:32, Moisture: Dry
+Time: 2024-11-26 14:42:32, Moisture: Dry
+Time: 2024-11-26 14:42:32, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:32, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:34, Moisture: Dry
+Time: 2024-11-26 14:42:34, Temperature: 21C, Humidity: 38%
+Time: 2024-11-26 14:42:36, Moisture: Dry
+Time: 2024-11-26 14:42:37, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:37, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:39, Moisture: Dry
+Time: 2024-11-26 14:42:39, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:41, Moisture: Dry
+Time: 2024-11-26 14:42:41, Moisture: Dry
+Time: 2024-11-26 14:42:41, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:43, Moisture: Dry
+Time: 2024-11-26 14:42:43, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:43, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:45, Moisture: Dry
+Time: 2024-11-26 14:42:45, Moisture: Dry
+Time: 2024-11-26 14:42:46, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:46, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:48, Moisture: Dry
+Time: 2024-11-26 14:42:48, Moisture: Dry
+Time: 2024-11-26 14:42:48, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:50, Moisture: Dry
+Time: 2024-11-26 14:42:50, Moisture: Dry
+Time: 2024-11-26 14:42:50, Temperature: 21C, Humidity: 37%
+Time: 2024-11-26 14:42:52, Moisture: Dry
+Time: 2024-11-26 14:42:52, Moisture: Dry
+Time: 2024-11-26 14:42:52, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:42:52, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:42:54, Moisture: Dry
+Time: 2024-11-26 14:42:54, Moisture: Dry
+Time: 2024-11-26 14:42:55, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:42:55, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:42:57, Moisture: Dry
+Time: 2024-11-26 14:42:57, Moisture: Dry
+Time: 2024-11-26 14:42:57, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:42:57, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:42:59, Moisture: Dry
+Time: 2024-11-26 14:42:59, Moisture: Dry
+Time: 2024-11-26 14:42:59, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:01, Moisture: Dry
+Time: 2024-11-26 14:43:01, Moisture: Dry
+Time: 2024-11-26 14:43:01, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:01, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:03, Moisture: Dry
+Time: 2024-11-26 14:43:03, Moisture: Dry
+Time: 2024-11-26 14:43:04, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:04, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:06, Moisture: Dry
+Time: 2024-11-26 14:43:06, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:06, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:08, Moisture: Dry
+Time: 2024-11-26 14:43:08, Moisture: Dry
+Time: 2024-11-26 14:43:08, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:08, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:10, Moisture: Dry
+Time: 2024-11-26 14:43:10, Moisture: Dry
+Time: 2024-11-26 14:43:10, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:10, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:12, Moisture: Dry
+Time: 2024-11-26 14:43:12, Moisture: Dry
+Time: 2024-11-26 14:43:13, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:15, Moisture: Dry
+Time: 2024-11-26 14:43:15, Moisture: Dry
+Time: 2024-11-26 14:43:15, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:17, Moisture: Dry
+Time: 2024-11-26 14:43:17, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:17, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:19, Moisture: Dry
+Time: 2024-11-26 14:43:19, Moisture: Dry
+Time: 2024-11-26 14:43:20, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:20, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:22, Moisture: Dry
+Time: 2024-11-26 14:43:22, Moisture: Dry
+Time: 2024-11-26 14:43:22, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:22, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:24, Moisture: Dry
+Time: 2024-11-26 14:43:24, Moisture: Dry
+Time: 2024-11-26 14:43:24, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:26, Moisture: Dry
+Time: 2024-11-26 14:43:26, Moisture: Dry
+Time: 2024-11-26 14:43:26, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:26, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:28, Moisture: Dry
+Time: 2024-11-26 14:43:31, Moisture: Dry
+Time: 2024-11-26 14:43:31, Moisture: Dry
+Time: 2024-11-26 14:43:31, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:33, Moisture: Dry
+Time: 2024-11-26 14:43:33, Moisture: Dry
+Time: 2024-11-26 14:43:33, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 14:43:33, Temperature: 21C, Humidity: 36%
+Time: 2024-11-26 17:16:11, Moisture: Dry
+Time: 2024-11-26 17:16:11, Moisture: Dry
+Time: 2024-11-26 17:16:11, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:11, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:11, Lux: 207.27997920595294 lux
+Time: 2024-11-26 17:16:13, Moisture: Dry
+Time: 2024-11-26 17:16:13, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:13, Lux: 207.27997920595294 lux
+Time: 2024-11-26 17:16:15, Moisture: Dry
+Time: 2024-11-26 17:16:15, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:15, Lux: 207.31197164205116 lux
+Time: 2024-11-26 17:16:17, Moisture: Dry
+Time: 2024-11-26 17:16:17, Moisture: Dry
+Time: 2024-11-26 17:16:18, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:18, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:18, Lux: 207.31197164205116 lux
+Time: 2024-11-26 17:16:18, Lux: 207.31197164205116 lux
+Time: 2024-11-26 17:16:20, Moisture: Dry
+Time: 2024-11-26 17:16:20, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:20, Lux: 207.34396379406476 lux
+Time: 2024-11-26 17:16:22, Moisture: Dry
+Time: 2024-11-26 17:16:22, Moisture: Dry
+Time: 2024-11-26 17:16:22, Lux: 207.31197164205116 lux
+Time: 2024-11-26 17:16:22, Lux: 207.31197164205116 lux
+Time: 2024-11-26 17:16:24, Moisture: Dry
+Time: 2024-11-26 17:16:24, Moisture: Dry
+Time: 2024-11-26 17:16:24, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:24, Lux: 207.27997920595294 lux
+Time: 2024-11-26 17:16:26, Moisture: Dry
+Time: 2024-11-26 17:16:27, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:27, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:27, Lux: 207.31197164205116 lux
+Time: 2024-11-26 17:16:29, Moisture: Dry
+Time: 2024-11-26 17:16:29, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:29, Lux: 207.28759526674514 lux
+Time: 2024-11-26 17:16:29, Lux: 207.28759526674514 lux
+Time: 2024-11-26 17:16:31, Moisture: Dry
+Time: 2024-11-26 17:16:31, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:31, Lux: 207.35157638469735 lux
+Time: 2024-11-26 17:16:33, Moisture: Dry
+Time: 2024-11-26 17:16:33, Moisture: Dry
+Time: 2024-11-26 17:16:34, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:34, Lux: 206.5182671885505 lux
+Time: 2024-11-26 17:16:35, Moisture: Dry
+Time: 2024-11-26 17:16:35, Moisture: Dry
+Time: 2024-11-26 17:16:36, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:36, Lux: 206.9265317168253 lux
+Time: 2024-11-26 17:16:36, Lux: 206.9265317168253 lux
+Time: 2024-11-26 17:16:38, Moisture: Dry
+Time: 2024-11-26 17:16:38, Moisture: Dry
+Time: 2024-11-26 17:16:38, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:38, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:38, Lux: 207.50392029590336 lux
+Time: 2024-11-26 17:16:38, Lux: 207.50392029590336 lux
+Time: 2024-11-26 17:16:40, Moisture: Dry
+Time: 2024-11-26 17:16:40, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:40, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:40, Lux: 207.6486474150187 lux
+Time: 2024-11-26 17:16:40, Lux: 207.6486474150187 lux
+Time: 2024-11-26 17:16:42, Moisture: Dry
+Time: 2024-11-26 17:16:43, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:43, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:43, Lux: 207.68063991200347 lux
+Time: 2024-11-26 17:16:43, Lux: 207.68063991200347 lux
+Time: 2024-11-26 17:16:45, Moisture: Dry
+Time: 2024-11-26 17:16:45, Moisture: Dry
+Time: 2024-11-26 17:16:45, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:45, Lux: 207.65626385569715 lux
+Time: 2024-11-26 17:16:45, Lux: 207.65626385569715 lux
+Time: 2024-11-26 17:16:47, Moisture: Dry
+Time: 2024-11-26 17:16:47, Moisture: Dry
+Time: 2024-11-26 17:16:47, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:47, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:16:47, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:16:49, Moisture: Dry
+Time: 2024-11-26 17:16:49, Moisture: Dry
+Time: 2024-11-26 17:16:49, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:49, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:49, Lux: 207.65626385569715 lux
+Time: 2024-11-26 17:16:51, Moisture: Dry
+Time: 2024-11-26 17:16:51, Moisture: Dry
+Time: 2024-11-26 17:16:52, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:52, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:52, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:16:52, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:16:54, Moisture: Dry
+Time: 2024-11-26 17:16:54, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:54, Lux: 207.53591074523243 lux
+Time: 2024-11-26 17:16:54, Lux: 207.53591074523243 lux
+Time: 2024-11-26 17:16:56, Moisture: Dry
+Time: 2024-11-26 17:16:56, Moisture: Dry
+Time: 2024-11-26 17:16:56, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:56, Lux: 207.41555636775195 lux
+Time: 2024-11-26 17:16:56, Lux: 207.41555636775195 lux
+Time: 2024-11-26 17:16:58, Moisture: Dry
+Time: 2024-11-26 17:16:58, Moisture: Dry
+Time: 2024-11-26 17:16:58, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:16:58, Lux: 207.4475459339095 lux
+Time: 2024-11-26 17:17:00, Moisture: Dry
+Time: 2024-11-26 17:17:01, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:01, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:01, Lux: 207.52829796140495 lux
+Time: 2024-11-26 17:17:01, Lux: 207.52829796140495 lux
+Time: 2024-11-26 17:17:03, Moisture: Dry
+Time: 2024-11-26 17:17:03, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:03, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:03, Lux: 207.53591074523243 lux
+Time: 2024-11-26 17:17:03, Lux: 207.53591074523243 lux
+Time: 2024-11-26 17:17:05, Moisture: Dry
+Time: 2024-11-26 17:17:05, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:05, Lux: 207.56790091108425 lux
+Time: 2024-11-26 17:17:07, Moisture: Dry
+Time: 2024-11-26 17:17:07, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:07, Lux: 207.56790091108425 lux
+Time: 2024-11-26 17:17:07, Lux: 207.56790091108425 lux
+Time: 2024-11-26 17:17:09, Moisture: Dry
+Time: 2024-11-26 17:17:10, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:10, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:10, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:17:10, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:17:12, Moisture: Dry
+Time: 2024-11-26 17:17:12, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:12, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:17:12, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:17:14, Moisture: Dry
+Time: 2024-11-26 17:17:14, Moisture: Dry
+Time: 2024-11-26 17:17:14, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:14, Lux: 207.53591074523243 lux
+Time: 2024-11-26 17:17:14, Lux: 207.53591074523243 lux
+Time: 2024-11-26 17:17:16, Moisture: Dry
+Time: 2024-11-26 17:17:16, Moisture: Dry
+Time: 2024-11-26 17:17:17, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:17, Lux: 207.5115242159186 lux
+Time: 2024-11-26 17:17:19, Moisture: Dry
+Time: 2024-11-26 17:17:19, Lux: 207.5115242159186 lux
+Time: 2024-11-26 17:17:21, Moisture: Dry
+Time: 2024-11-26 17:17:21, Moisture: Dry
+Time: 2024-11-26 17:17:21, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:21, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:21, Lux: 207.5115242159186 lux
+Time: 2024-11-26 17:17:21, Lux: 207.5115242159186 lux
+Time: 2024-11-26 17:17:23, Moisture: Dry
+Time: 2024-11-26 17:17:23, Moisture: Dry
+Time: 2024-11-26 17:17:23, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:23, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:23, Lux: 207.5115242159186 lux
+Time: 2024-11-26 17:17:25, Moisture: Dry
+Time: 2024-11-26 17:17:26, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:26, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:26, Lux: 207.5115242159186 lux
+Time: 2024-11-26 17:17:26, Lux: 207.5115242159186 lux
+Time: 2024-11-26 17:17:28, Moisture: Dry
+Time: 2024-11-26 17:17:28, Moisture: Dry
+Time: 2024-11-26 17:17:28, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:28, Lux: 207.41555636775195 lux
+Time: 2024-11-26 17:17:30, Moisture: Dry
+Time: 2024-11-26 17:17:30, Moisture: Dry
+Time: 2024-11-26 17:17:30, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:30, Lux: 207.47953521660284 lux
+Time: 2024-11-26 17:17:30, Lux: 207.47953521660284 lux
+Time: 2024-11-26 17:17:32, Moisture: Dry
+Time: 2024-11-26 17:17:32, Moisture: Dry
+Time: 2024-11-26 17:17:32, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:32, Lux: 207.5115242159186 lux
+Time: 2024-11-26 17:17:33, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:33, Lux: 207.5115242159186 lux
+Time: 2024-11-26 17:17:34, Moisture: Dry
+Time: 2024-11-26 17:17:34, Moisture: Dry
+Time: 2024-11-26 17:17:35, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:35, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:35, Lux: 207.4475459339095 lux
+Time: 2024-11-26 17:17:37, Moisture: Dry
+Time: 2024-11-26 17:17:37, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:37, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:37, Lux: 207.47953521660284 lux
+Time: 2024-11-26 17:17:37, Lux: 207.47953521660284 lux
+Time: 2024-11-26 17:17:39, Moisture: Dry
+Time: 2024-11-26 17:17:39, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:39, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:39, Lux: 207.56790091108425 lux
+Time: 2024-11-26 17:17:39, Lux: 207.56790091108425 lux
+Time: 2024-11-26 17:17:41, Moisture: Dry
+Time: 2024-11-26 17:17:41, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:41, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:41, Lux: 207.53591074523243 lux
+Time: 2024-11-26 17:17:41, Lux: 207.53591074523243 lux
+Time: 2024-11-26 17:17:43, Moisture: Dry
+Time: 2024-11-26 17:17:43, Moisture: Dry
+Time: 2024-11-26 17:17:44, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:44, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:44, Lux: 207.47953521660284 lux
+Time: 2024-11-26 17:17:44, Lux: 207.47953521660284 lux
+Time: 2024-11-26 17:17:46, Moisture: Dry
+Time: 2024-11-26 17:17:46, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:46, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:46, Lux: 207.35157638469735 lux
+Time: 2024-11-26 17:17:46, Lux: 207.35157638469735 lux
+Time: 2024-11-26 17:17:48, Moisture: Dry
+Time: 2024-11-26 17:17:48, Moisture: Dry
+Time: 2024-11-26 17:17:48, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:48, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:48, Lux: 207.43993854646672 lux
+Time: 2024-11-26 17:17:50, Moisture: Dry
+Time: 2024-11-26 17:17:50, Moisture: Dry
+Time: 2024-11-26 17:17:50, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:50, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:51, Lux: 207.56790091108425 lux
+Time: 2024-11-26 17:17:53, Moisture: Dry
+Time: 2024-11-26 17:17:53, Moisture: Dry
+Time: 2024-11-26 17:17:53, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:53, Lux: 207.5998907935453 lux
+Time: 2024-11-26 17:17:53, Lux: 207.5998907935453 lux
+Time: 2024-11-26 17:17:55, Moisture: Dry
+Time: 2024-11-26 17:17:55, Moisture: Dry
+Time: 2024-11-26 17:17:55, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:17:55, Lux: 207.59228147570468 lux
+Time: 2024-11-26 17:17:55, Lux: 207.59228147570468 lux
+Time: 2024-11-26 17:17:57, Moisture: Dry
+Time: 2024-11-26 17:17:57, Moisture: Dry
+Time: 2024-11-26 17:17:57, Lux: 207.56028986038652 lux
+Time: 2024-11-26 17:17:57, Lux: 207.56028986038652 lux
+Time: 2024-11-26 17:17:59, Moisture: Dry
+Time: 2024-11-26 17:17:59, Moisture: Dry
+Time: 2024-11-26 17:18:00, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:00, Lux: 207.5998907935453 lux
+Time: 2024-11-26 17:18:00, Lux: 207.5998907935453 lux
+Time: 2024-11-26 17:18:02, Moisture: Dry
+Time: 2024-11-26 17:18:02, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:02, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:02, Lux: 207.5998907935453 lux
+Time: 2024-11-26 17:18:02, Lux: 207.5998907935453 lux
+Time: 2024-11-26 17:18:04, Moisture: Dry
+Time: 2024-11-26 17:18:04, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:04, Lux: 207.5998907935453 lux
+Time: 2024-11-26 17:18:06, Moisture: Dry
+Time: 2024-11-26 17:18:06, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:06, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:06, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:18:06, Lux: 207.624272807446 lux
+Time: 2024-11-26 17:18:08, Moisture: Dry
+Time: 2024-11-26 17:18:08, Moisture: Dry
+Time: 2024-11-26 17:18:09, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:09, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:09, Lux: 207.59228147570468 lux
+Time: 2024-11-26 17:18:09, Lux: 207.59228147570468 lux
+Time: 2024-11-26 17:18:11, Moisture: Dry
+Time: 2024-11-26 17:18:11, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:11, Lux: 207.53591074523243 lux
+Time: 2024-11-26 17:18:13, Moisture: Dry
+Time: 2024-11-26 17:18:13, Moisture: Dry
+Time: 2024-11-26 17:18:13, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:13, Lux: 207.31958596762684 lux
+Time: 2024-11-26 17:18:13, Lux: 207.31958596762684 lux
+Time: 2024-11-26 17:18:15, Moisture: Dry
+Time: 2024-11-26 17:18:15, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:15, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:15, Lux: 207.28759526674514 lux
+Time: 2024-11-26 17:18:15, Lux: 207.28759526674514 lux
+Time: 2024-11-26 17:18:17, Moisture: Dry
+Time: 2024-11-26 17:18:17, Moisture: Dry
+Time: 2024-11-26 17:18:18, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:18, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:18, Lux: 207.0788770046816 lux
+Time: 2024-11-26 17:18:18, Lux: 207.0788770046816 lux
+Time: 2024-11-26 17:18:20, Moisture: Dry
+Time: 2024-11-26 17:18:20, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:20, Lux: 206.4375054907625 lux
+Time: 2024-11-26 17:18:20, Lux: 206.4375054907625 lux
+Time: 2024-11-26 17:18:22, Moisture: Dry
+Time: 2024-11-26 17:18:22, Moisture: Dry
+Time: 2024-11-26 17:18:22, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:22, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:22, Lux: 207.86339850395666 lux
+Time: 2024-11-26 17:18:22, Lux: 207.86339850395666 lux
+Time: 2024-11-26 17:18:24, Moisture: Dry
+Time: 2024-11-26 17:18:24, Moisture: Dry
+Time: 2024-11-26 17:18:24, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:24, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:25, Lux: 218.84984136659241 lux
+Time: 2024-11-26 17:18:25, Lux: 218.84984136659241 lux
+Time: 2024-11-26 17:18:27, Moisture: Dry
+Time: 2024-11-26 17:18:27, Moisture: Dry
+Time: 2024-11-26 17:18:27, Lux: 216.40886622927331 lux
+Time: 2024-11-26 17:18:29, Moisture: Dry
+Time: 2024-11-26 17:18:29, Moisture: Dry
+Time: 2024-11-26 17:18:29, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:29, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:29, Lux: 221.39684976226062 lux
+Time: 2024-11-26 17:18:29, Lux: 221.39684976226062 lux
+Time: 2024-11-26 17:18:31, Moisture: Dry
+Time: 2024-11-26 17:18:31, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:31, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:18:31, Lux: 221.6133409043034 lux
+Time: 2024-11-26 17:18:33, Moisture: Dry
+Time: 2024-11-26 17:18:34, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:18:34, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:18:34, Lux: 214.8933131572189 lux
+Time: 2024-11-26 17:18:36, Moisture: Dry
+Time: 2024-11-26 17:18:36, Moisture: Dry
+Time: 2024-11-26 17:18:36, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:18:36, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:18:36, Lux: 220.98069683358926 lux
+Time: 2024-11-26 17:18:36, Lux: 220.98069683358926 lux
+Time: 2024-11-26 17:18:38, Moisture: Dry
+Time: 2024-11-26 17:18:38, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:18:38, Lux: 220.4680415280875 lux
+Time: 2024-11-26 17:18:38, Lux: 220.4680415280875 lux
+Time: 2024-11-26 17:18:40, Moisture: Dry
+Time: 2024-11-26 17:18:40, Moisture: Dry
+Time: 2024-11-26 17:18:40, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:18:40, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:18:40, Lux: 220.2516008289962 lux
+Time: 2024-11-26 17:18:40, Lux: 220.2516008289962 lux
+Time: 2024-11-26 17:18:42, Moisture: Dry
+Time: 2024-11-26 17:18:42, Moisture: Dry
+Time: 2024-11-26 17:18:43, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:18:43, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:18:43, Lux: 221.14120256454464 lux
+Time: 2024-11-26 17:18:43, Lux: 221.14120256454464 lux
+Time: 2024-11-26 17:18:45, Moisture: Dry
+Time: 2024-11-26 17:18:45, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:18:45, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:18:45, Lux: 220.89266055181835 lux
+Time: 2024-11-26 17:18:47, Moisture: Dry
+Time: 2024-11-26 17:18:47, Moisture: Dry
+Time: 2024-11-26 17:18:47, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:18:47, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:18:47, Lux: 220.3479009606726 lux
+Time: 2024-11-26 17:18:47, Lux: 220.3479009606726 lux
+Time: 2024-11-26 17:18:49, Moisture: Dry
+Time: 2024-11-26 17:18:49, Lux: 220.19566023697067 lux
+Time: 2024-11-26 17:18:52, Moisture: Dry
+Time: 2024-11-26 17:18:52, Moisture: Dry
+Time: 2024-11-26 17:18:52, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:18:52, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:18:52, Lux: 219.98747385761513 lux
+Time: 2024-11-26 17:18:52, Lux: 219.98747385761513 lux
+Time: 2024-11-26 17:18:54, Moisture: Dry
+Time: 2024-11-26 17:18:54, Moisture: Dry
+Time: 2024-11-26 17:18:54, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:18:54, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:18:54, Lux: 219.1620679728005 lux
+Time: 2024-11-26 17:18:56, Moisture: Dry
+Time: 2024-11-26 17:18:56, Moisture: Dry
+Time: 2024-11-26 17:18:56, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:18:56, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:18:56, Lux: 222.68509332839344 lux
+Time: 2024-11-26 17:18:56, Lux: 222.68509332839344 lux
+Time: 2024-11-26 17:18:58, Moisture: Dry
+Time: 2024-11-26 17:18:58, Moisture: Dry
+Time: 2024-11-26 17:18:58, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:18:58, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:18:58, Lux: 206.83816371535005 lux
+Time: 2024-11-26 17:18:58, Lux: 206.83816371535005 lux
+Time: 2024-11-26 17:19:00, Moisture: Dry
+Time: 2024-11-26 17:19:00, Moisture: Dry
+Time: 2024-11-26 17:19:01, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:19:01, Temperature: 24C, Humidity: 39%
+Time: 2024-11-26 17:19:01, Lux: 203.26705481258284 lux
+Time: 2024-11-26 17:19:01, Lux: 203.26705481258284 lux
+Time: 2024-11-26 17:19:03, Moisture: Dry
+Time: 2024-11-26 17:19:03, Moisture: Dry
+Time: 2024-11-26 17:19:03, Lux: 218.4071633150446 lux
+Time: 2024-11-26 17:19:05, Moisture: Dry
+Time: 2024-11-26 17:19:05, Moisture: Dry
+Time: 2024-11-26 17:19:05, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:05, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:05, Lux: 149.5631649370741 lux
+Time: 2024-11-26 17:19:05, Lux: 149.5631649370741 lux
+Time: 2024-11-26 17:19:07, Moisture: Dry
+Time: 2024-11-26 17:19:07, Moisture: Dry
+Time: 2024-11-26 17:19:07, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:07, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:08, Lux: 209.7649897828064 lux
+Time: 2024-11-26 17:19:08, Lux: 209.7649897828064 lux
+Time: 2024-11-26 17:19:09, Moisture: Dry
+Time: 2024-11-26 17:19:09, Moisture: Dry
+Time: 2024-11-26 17:19:10, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:10, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:10, Lux: 199.14638697555282 lux
+Time: 2024-11-26 17:19:12, Moisture: Dry
+Time: 2024-11-26 17:19:12, Moisture: Dry
+Time: 2024-11-26 17:19:12, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:12, Lux: 198.89805952164824 lux
+Time: 2024-11-26 17:19:12, Lux: 198.89805952164824 lux
+Time: 2024-11-26 17:19:14, Moisture: Dry
+Time: 2024-11-26 17:19:14, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:14, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:14, Lux: 198.28871076344132 lux
+Time: 2024-11-26 17:19:14, Lux: 198.28871076344132 lux
+Time: 2024-11-26 17:19:16, Moisture: Dry
+Time: 2024-11-26 17:19:16, Moisture: Dry
+Time: 2024-11-26 17:19:17, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:17, Lux: 196.05078857819194 lux
+Time: 2024-11-26 17:19:19, Moisture: Dry
+Time: 2024-11-26 17:19:19, Moisture: Dry
+Time: 2024-11-26 17:19:19, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:19, Lux: 198.35270190940614 lux
+Time: 2024-11-26 17:19:21, Moisture: Dry
+Time: 2024-11-26 17:19:21, Moisture: Dry
+Time: 2024-11-26 17:19:21, Lux: 197.87273926671685 lux
+Time: 2024-11-26 17:19:23, Moisture: Dry
+Time: 2024-11-26 17:19:23, Moisture: Dry
+Time: 2024-11-26 17:19:23, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:23, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:23, Lux: 198.24760384897257 lux
+Time: 2024-11-26 17:19:23, Lux: 198.24760384897257 lux
+Time: 2024-11-26 17:19:25, Moisture: Dry
+Time: 2024-11-26 17:19:26, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:26, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:26, Lux: 185.76634162727697 lux
+Time: 2024-11-26 17:19:28, Moisture: Dry
+Time: 2024-11-26 17:19:28, Moisture: Dry
+Time: 2024-11-26 17:19:28, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:28, Lux: 185.52714516691475 lux
+Time: 2024-11-26 17:19:28, Lux: 185.52714516691475 lux
+Time: 2024-11-26 17:19:30, Moisture: Dry
+Time: 2024-11-26 17:19:30, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:30, Temperature: 24C, Humidity: 38%
+Time: 2024-11-26 17:19:30, Lux: 184.06035888140562 lux
+Time: 2024-11-26 17:19:30, Lux: 184.06035888140562 lux
+Time: 2024-11-26 17:19:32, Moisture: Dry
+Time: 2024-11-26 17:19:32, Moisture: Dry
+Time: 2024-11-26 17:19:33, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:33, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:33, Lux: 184.47733985410179 lux
+Time: 2024-11-26 17:19:33, Lux: 184.47733985410179 lux
+Time: 2024-11-26 17:19:35, Moisture: Dry
+Time: 2024-11-26 17:19:35, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:35, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:35, Lux: 187.71497276145732 lux
+Time: 2024-11-26 17:19:37, Moisture: Dry
+Time: 2024-11-26 17:19:37, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:37, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:37, Lux: 202.43501292807775 lux
+Time: 2024-11-26 17:19:39, Moisture: Dry
+Time: 2024-11-26 17:19:39, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:39, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:39, Lux: 203.62191290509523 lux
+Time: 2024-11-26 17:19:41, Moisture: Dry
+Time: 2024-11-26 17:19:41, Moisture: Dry
+Time: 2024-11-26 17:19:41, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:42, Lux: 203.7347500654253 lux
+Time: 2024-11-26 17:19:42, Lux: 203.7347500654253 lux
+Time: 2024-11-26 17:19:44, Moisture: Dry
+Time: 2024-11-26 17:19:44, Temperature: 24C, Humidity: 37%
+Time: 2024-11-26 17:19:44, Lux: 203.91908569484946 lux
+Time: 2024-11-26 17:19:44, Lux: 203.91908569484946 lux
+Time: 2024-11-26 17:19:46, Moisture: Dry
+Time: 2024-11-26 17:19:46, Moisture: Dry
+Time: 2024-11-26 17:19:46, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:19:46, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:19:46, Lux: 203.91908569484946 lux
+Time: 2024-11-26 17:19:48, Moisture: Dry
+Time: 2024-11-26 17:19:48, Moisture: Dry
+Time: 2024-11-26 17:19:48, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:19:48, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:19:49, Lux: 203.9510660916664 lux
+Time: 2024-11-26 17:19:50, Moisture: Dry
+Time: 2024-11-26 17:19:51, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:19:51, Lux: 203.9510660916664 lux
+Time: 2024-11-26 17:19:53, Moisture: Dry
+Time: 2024-11-26 17:19:53, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:19:53, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:19:53, Lux: 204.04700556102077 lux
+Time: 2024-11-26 17:19:55, Moisture: Dry
+Time: 2024-11-26 17:19:55, Lux: 202.72071859733333 lux
+Time: 2024-11-26 17:19:57, Moisture: Dry
+Time: 2024-11-26 17:19:57, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:19:57, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:19:57, Lux: 204.94767471364938 lux
+Time: 2024-11-26 17:19:57, Lux: 204.94767471364938 lux
+Time: 2024-11-26 17:19:59, Moisture: Dry
+Time: 2024-11-26 17:20:00, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:00, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:00, Lux: 205.10005029307277 lux
+Time: 2024-11-26 17:20:00, Lux: 205.10005029307277 lux
+Time: 2024-11-26 17:20:02, Moisture: Dry
+Time: 2024-11-26 17:20:02, Moisture: Dry
+Time: 2024-11-26 17:20:02, Lux: 204.24442203722253 lux
+Time: 2024-11-26 17:20:02, Lux: 204.24442203722253 lux
+Time: 2024-11-26 17:20:04, Moisture: Dry
+Time: 2024-11-26 17:20:04, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:04, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:04, Lux: 204.5416708829008 lux
+Time: 2024-11-26 17:20:06, Moisture: Dry
+Time: 2024-11-26 17:20:06, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:06, Lux: 204.59811911459803 lux
+Time: 2024-11-26 17:20:08, Moisture: Dry
+Time: 2024-11-26 17:20:08, Moisture: Dry
+Time: 2024-11-26 17:20:09, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:09, Lux: 204.57364232740056 lux
+Time: 2024-11-26 17:20:11, Moisture: Dry
+Time: 2024-11-26 17:20:11, Moisture: Dry
+Time: 2024-11-26 17:20:11, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:11, Lux: 204.72600793757647 lux
+Time: 2024-11-26 17:20:13, Moisture: Dry
+Time: 2024-11-26 17:20:13, Moisture: Dry
+Time: 2024-11-26 17:20:13, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:13, Lux: 204.72600793757647 lux
+Time: 2024-11-26 17:20:15, Moisture: Dry
+Time: 2024-11-26 17:20:15, Moisture: Dry
+Time: 2024-11-26 17:20:15, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:15, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:16, Lux: 204.75797943186058 lux
+Time: 2024-11-26 17:20:16, Lux: 204.75797943186058 lux
+Time: 2024-11-26 17:20:18, Moisture: Dry
+Time: 2024-11-26 17:20:18, Moisture: Dry
+Time: 2024-11-26 17:20:18, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:18, Lux: 204.63009174739565 lux
+Time: 2024-11-26 17:20:20, Moisture: Dry
+Time: 2024-11-26 17:20:20, Moisture: Dry
+Time: 2024-11-26 17:20:20, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:20, Lux: 204.63009174739565 lux
+Time: 2024-11-26 17:20:22, Moisture: Dry
+Time: 2024-11-26 17:20:22, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:22, Lux: 204.57364232740056 lux
+Time: 2024-11-26 17:20:22, Lux: 204.57364232740056 lux
+Time: 2024-11-26 17:20:24, Moisture: Dry
+Time: 2024-11-26 17:20:25, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:25, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:25, Lux: 204.72600793757647 lux
+Time: 2024-11-26 17:20:27, Moisture: Dry
+Time: 2024-11-26 17:20:27, Moisture: Dry
+Time: 2024-11-26 17:20:27, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:27, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:27, Lux: 204.66955495331632 lux
+Time: 2024-11-26 17:20:27, Lux: 204.66955495331632 lux
+Time: 2024-11-26 17:20:29, Moisture: Dry
+Time: 2024-11-26 17:20:29, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:29, Lux: 204.54915791549493 lux
+Time: 2024-11-26 17:20:29, Lux: 204.54915791549493 lux
+Time: 2024-11-26 17:20:31, Moisture: Dry
+Time: 2024-11-26 17:20:31, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:31, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:31, Lux: 204.57364232740056 lux
+Time: 2024-11-26 17:20:31, Lux: 204.57364232740056 lux
+Time: 2024-11-26 17:20:33, Moisture: Dry
+Time: 2024-11-26 17:20:34, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:34, Lux: 204.9379842411143 lux
+Time: 2024-11-26 17:20:34, Lux: 204.9379842411143 lux
+Time: 2024-11-26 17:20:36, Moisture: Dry
+Time: 2024-11-26 17:20:36, Moisture: Dry
+Time: 2024-11-26 17:20:36, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:36, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:36, Lux: 205.21819669464202 lux
+Time: 2024-11-26 17:20:38, Moisture: Dry
+Time: 2024-11-26 17:20:38, Moisture: Dry
+Time: 2024-11-26 17:20:38, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:38, Lux: 204.88886867801685 lux
+Time: 2024-11-26 17:20:38, Lux: 204.88886867801685 lux
+Time: 2024-11-26 17:20:40, Moisture: Dry
+Time: 2024-11-26 17:20:40, Moisture: Dry
+Time: 2024-11-26 17:20:40, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:40, Lux: 205.06581371131603 lux
+Time: 2024-11-26 17:20:42, Moisture: Dry
+Time: 2024-11-26 17:20:42, Moisture: Dry
+Time: 2024-11-26 17:20:43, Lux: 205.07320907949818 lux
+Time: 2024-11-26 17:20:43, Lux: 205.07320907949818 lux
+Time: 2024-11-26 17:20:45, Moisture: Dry
+Time: 2024-11-26 17:20:45, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:45, Lux: 205.09777037430277 lux
+Time: 2024-11-26 17:20:47, Moisture: Dry
+Time: 2024-11-26 17:20:47, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:47, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:47, Lux: 205.07320907949818 lux
+Time: 2024-11-26 17:20:47, Lux: 205.07320907949818 lux
+Time: 2024-11-26 17:20:49, Moisture: Dry
+Time: 2024-11-26 17:20:49, Moisture: Dry
+Time: 2024-11-26 17:20:49, Lux: 204.97734266075685 lux
+Time: 2024-11-26 17:20:49, Lux: 204.97734266075685 lux
+Time: 2024-11-26 17:20:51, Moisture: Dry
+Time: 2024-11-26 17:20:52, Temperature: 24C, Humidity: 36%
+Time: 2024-11-26 17:20:52, Lux: 205.01668636971965 lux
+Time: 2024-11-26 17:20:52, Lux: 205.01668636971965 lux
+Time: 2024-11-26 17:20:54, Moisture: Dry
+Time: 2024-11-26 17:20:54, Moisture: Dry
+Time: 2024-11-26 17:20:54, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:54, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:54, Lux: 205.00929841527338 lux
+Time: 2024-11-26 17:20:54, Lux: 205.00929841527338 lux
+Time: 2024-11-26 17:20:56, Moisture: Dry
+Time: 2024-11-26 17:20:56, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:56, Lux: 205.00929841527338 lux
+Time: 2024-11-26 17:20:58, Moisture: Dry
+Time: 2024-11-26 17:20:58, Moisture: Dry
+Time: 2024-11-26 17:20:58, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:58, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:20:58, Lux: 205.041253888158 lux
+Time: 2024-11-26 17:20:58, Lux: 205.041253888158 lux
+Time: 2024-11-26 17:21:01, Moisture: Dry
+Time: 2024-11-26 17:21:01, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:01, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:01, Lux: 204.93057094620593 lux
+Time: 2024-11-26 17:21:03, Moisture: Dry
+Time: 2024-11-26 17:21:03, Moisture: Dry
+Time: 2024-11-26 17:21:03, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:03, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:03, Lux: 203.97365482915293 lux
+Time: 2024-11-26 17:21:04, Lux: 203.97365482915293 lux
+Time: 2024-11-26 17:21:05, Moisture: Dry
+Time: 2024-11-26 17:21:05, Moisture: Dry
+Time: 2024-11-26 17:21:05, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:05, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:05, Lux: 203.67643474101826 lux
+Time: 2024-11-26 17:21:05, Lux: 203.67643474101826 lux
+Time: 2024-11-26 17:21:07, Moisture: Dry
+Time: 2024-11-26 17:21:07, Moisture: Dry
+Time: 2024-11-26 17:21:08, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:08, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:08, Lux: 203.58801399867914 lux
+Time: 2024-11-26 17:21:08, Lux: 203.58801399867914 lux
+Time: 2024-11-26 17:21:09, Moisture: Dry
+Time: 2024-11-26 17:21:09, Moisture: Dry
+Time: 2024-11-26 17:21:10, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:10, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:10, Lux: 203.58801399867914 lux
+Time: 2024-11-26 17:21:10, Lux: 203.58801399867914 lux
+Time: 2024-11-26 17:21:12, Moisture: Dry
+Time: 2024-11-26 17:21:12, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:12, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:12, Lux: 203.37170522518178 lux
+Time: 2024-11-26 17:21:12, Lux: 203.37170522518178 lux
+Time: 2024-11-26 17:21:14, Moisture: Dry
+Time: 2024-11-26 17:21:14, Lux: 203.76673042031817 lux
+Time: 2024-11-26 17:21:16, Moisture: Dry
+Time: 2024-11-26 17:21:16, Moisture: Dry
+Time: 2024-11-26 17:21:17, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:17, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:17, Lux: 204.21992649955354 lux
+Time: 2024-11-26 17:21:17, Lux: 204.21992649955354 lux
+Time: 2024-11-26 17:21:19, Moisture: Dry
+Time: 2024-11-26 17:21:19, Moisture: Dry
+Time: 2024-11-26 17:21:19, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:19, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:19, Lux: 203.43355901953856 lux
+Time: 2024-11-26 17:21:19, Lux: 203.43355901953856 lux
+Time: 2024-11-26 17:21:21, Moisture: Dry
+Time: 2024-11-26 17:21:21, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:21, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:21, Lux: 203.49748745353475 lux
+Time: 2024-11-26 17:21:23, Moisture: Dry
+Time: 2024-11-26 17:21:23, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:23, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:23, Lux: 203.49748745353475 lux
+Time: 2024-11-26 17:21:25, Moisture: Dry
+Time: 2024-11-26 17:21:25, Moisture: Dry
+Time: 2024-11-26 17:21:26, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:26, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:26, Lux: 203.64986180774932 lux
+Time: 2024-11-26 17:21:26, Lux: 203.64986180774932 lux
+Time: 2024-11-26 17:21:28, Moisture: Dry
+Time: 2024-11-26 17:21:28, Moisture: Dry
+Time: 2024-11-26 17:21:28, Lux: 203.58593269075772 lux
+Time: 2024-11-26 17:21:30, Moisture: Dry
+Time: 2024-11-26 17:21:30, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:30, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:30, Lux: 203.70634062707842 lux
+Time: 2024-11-26 17:21:30, Lux: 203.70634062707842 lux
+Time: 2024-11-26 17:21:32, Moisture: Dry
+Time: 2024-11-26 17:21:32, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:32, Lux: 203.77027099570358 lux
+Time: 2024-11-26 17:21:32, Lux: 203.77027099570358 lux
+Time: 2024-11-26 17:21:35, Moisture: Dry
+Time: 2024-11-26 17:21:35, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:35, Lux: 203.22470061800857 lux
+Time: 2024-11-26 17:21:35, Lux: 203.22470061800857 lux
+Time: 2024-11-26 17:21:37, Moisture: Dry
+Time: 2024-11-26 17:21:37, Moisture: Dry
+Time: 2024-11-26 17:21:37, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:37, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:37, Lux: 203.0403619258685 lux
+Time: 2024-11-26 17:21:37, Lux: 203.0403619258685 lux
+Time: 2024-11-26 17:21:39, Moisture: Dry
+Time: 2024-11-26 17:21:39, Moisture: Dry
+Time: 2024-11-26 17:21:39, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:39, Lux: 202.95191047405723 lux
+Time: 2024-11-26 17:21:39, Lux: 202.95191047405723 lux
+Time: 2024-11-26 17:21:41, Moisture: Dry
+Time: 2024-11-26 17:21:41, Moisture: Dry
+Time: 2024-11-26 17:21:41, Lux: 203.0158338812328 lux
+Time: 2024-11-26 17:21:44, Moisture: Dry
+Time: 2024-11-26 17:21:44, Moisture: Dry
+Time: 2024-11-26 17:21:44, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:44, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:44, Lux: 202.69394895067666 lux
+Time: 2024-11-26 17:21:44, Lux: 202.69394895067666 lux
+Time: 2024-11-26 17:21:46, Moisture: Dry
+Time: 2024-11-26 17:21:46, Moisture: Dry
+Time: 2024-11-26 17:21:46, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:46, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:46, Lux: 202.50960909293465 lux
+Time: 2024-11-26 17:21:46, Lux: 202.50960909293465 lux
+Time: 2024-11-26 17:21:48, Moisture: Dry
+Time: 2024-11-26 17:21:48, Moisture: Dry
+Time: 2024-11-26 17:21:48, Lux: 203.4558555841401 lux
+Time: 2024-11-26 17:21:50, Moisture: Dry
+Time: 2024-11-26 17:21:50, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:50, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:51, Lux: 203.3280165087999 lux
+Time: 2024-11-26 17:21:51, Lux: 203.3280165087999 lux
+Time: 2024-11-26 17:21:53, Moisture: Dry
+Time: 2024-11-26 17:21:53, Moisture: Dry
+Time: 2024-11-26 17:21:53, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:21:53, Lux: 203.33543381326015 lux
+Time: 2024-11-26 17:21:55, Moisture: Dry
+Time: 2024-11-26 17:21:55, Moisture: Dry
+Time: 2024-11-26 17:21:55, Lux: 203.30347510137443 lux
+Time: 2024-11-26 17:21:55, Lux: 203.30347510137443 lux
+Time: 2024-11-26 17:21:57, Moisture: Dry
+Time: 2024-11-26 17:21:57, Lux: 203.42389624203773 lux
+Time: 2024-11-26 17:21:59, Moisture: Dry
+Time: 2024-11-26 17:21:59, Moisture: Dry
+Time: 2024-11-26 17:22:00, Lux: 203.51235573219688 lux
+Time: 2024-11-26 17:22:02, Moisture: Dry
+Time: 2024-11-26 17:22:02, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:02, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:02, Lux: 203.63277345802226 lux
+Time: 2024-11-26 17:22:02, Lux: 203.63277345802226 lux
+Time: 2024-11-26 17:22:04, Moisture: Dry
+Time: 2024-11-26 17:22:04, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:04, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:04, Lux: 203.76061529097532 lux
+Time: 2024-11-26 17:22:06, Moisture: Dry
+Time: 2024-11-26 17:22:06, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:06, Lux: 203.91299451708707 lux
+Time: 2024-11-26 17:22:06, Lux: 203.91299451708707 lux
+Time: 2024-11-26 17:22:08, Moisture: Dry
+Time: 2024-11-26 17:22:09, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:09, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:09, Lux: 203.88103414093757 lux
+Time: 2024-11-26 17:22:09, Lux: 203.88103414093757 lux
+Time: 2024-11-26 17:22:11, Moisture: Dry
+Time: 2024-11-26 17:22:11, Moisture: Dry
+Time: 2024-11-26 17:22:11, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:11, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:11, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:22:13, Moisture: Dry
+Time: 2024-11-26 17:22:13, Moisture: Dry
+Time: 2024-11-26 17:22:13, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:13, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:13, Lux: 203.753189795935 lux
+Time: 2024-11-26 17:22:13, Lux: 203.753189795935 lux
+Time: 2024-11-26 17:22:15, Moisture: Dry
+Time: 2024-11-26 17:22:15, Moisture: Dry
+Time: 2024-11-26 17:22:15, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:15, Lux: 203.753189795935 lux
+Time: 2024-11-26 17:22:16, Lux: 203.753189795935 lux
+Time: 2024-11-26 17:22:17, Moisture: Dry
+Time: 2024-11-26 17:22:17, Moisture: Dry
+Time: 2024-11-26 17:22:18, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:18, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:18, Lux: 203.78515130842356 lux
+Time: 2024-11-26 17:22:18, Lux: 203.78515130842356 lux
+Time: 2024-11-26 17:22:20, Moisture: Dry
+Time: 2024-11-26 17:22:20, Moisture: Dry
+Time: 2024-11-26 17:22:20, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:20, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:20, Lux: 203.88103414093757 lux
+Time: 2024-11-26 17:22:22, Moisture: Dry
+Time: 2024-11-26 17:22:22, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:22, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:22, Lux: 203.88103414093757 lux
+Time: 2024-11-26 17:22:24, Moisture: Dry
+Time: 2024-11-26 17:22:24, Moisture: Dry
+Time: 2024-11-26 17:22:24, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:22:24, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:22:26, Moisture: Dry
+Time: 2024-11-26 17:22:26, Moisture: Dry
+Time: 2024-11-26 17:22:27, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:27, Lux: 203.88103414093757 lux
+Time: 2024-11-26 17:22:27, Lux: 203.88103414093757 lux
+Time: 2024-11-26 17:22:29, Moisture: Dry
+Time: 2024-11-26 17:22:29, Moisture: Dry
+Time: 2024-11-26 17:22:29, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:29, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:29, Lux: 203.90556688853056 lux
+Time: 2024-11-26 17:22:29, Lux: 203.90556688853056 lux
+Time: 2024-11-26 17:22:31, Moisture: Dry
+Time: 2024-11-26 17:22:31, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:31, Lux: 203.91299451708707 lux
+Time: 2024-11-26 17:22:31, Lux: 203.91299451708707 lux
+Time: 2024-11-26 17:22:33, Moisture: Dry
+Time: 2024-11-26 17:22:34, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:34, Lux: 203.90556688853056 lux
+Time: 2024-11-26 17:22:36, Moisture: Dry
+Time: 2024-11-26 17:22:36, Moisture: Dry
+Time: 2024-11-26 17:22:36, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:36, Lux: 203.8245345029644 lux
+Time: 2024-11-26 17:22:36, Lux: 203.8245345029644 lux
+Time: 2024-11-26 17:22:38, Moisture: Dry
+Time: 2024-11-26 17:22:38, Moisture: Dry
+Time: 2024-11-26 17:22:38, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:38, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:38, Lux: 203.8245345029644 lux
+Time: 2024-11-26 17:22:40, Moisture: Dry
+Time: 2024-11-26 17:22:40, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:40, Lux: 203.72865525899198 lux
+Time: 2024-11-26 17:22:40, Lux: 203.72865525899198 lux
+Time: 2024-11-26 17:22:42, Moisture: Dry
+Time: 2024-11-26 17:22:43, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:43, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:43, Lux: 203.66473434260416 lux
+Time: 2024-11-26 17:22:45, Moisture: Dry
+Time: 2024-11-26 17:22:45, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:45, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:45, Lux: 203.79257503893663 lux
+Time: 2024-11-26 17:22:47, Moisture: Dry
+Time: 2024-11-26 17:22:47, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:47, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:22:49, Moisture: Dry
+Time: 2024-11-26 17:22:49, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:49, Lux: 203.79257503893663 lux
+Time: 2024-11-26 17:22:51, Moisture: Dry
+Time: 2024-11-26 17:22:51, Moisture: Dry
+Time: 2024-11-26 17:22:52, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:52, Lux: 203.6966949428978 lux
+Time: 2024-11-26 17:22:54, Moisture: Dry
+Time: 2024-11-26 17:22:54, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:22:54, Lux: 203.79257503893663 lux
+Time: 2024-11-26 17:22:56, Moisture: Dry
+Time: 2024-11-26 17:22:56, Lux: 203.753189795935 lux
+Time: 2024-11-26 17:22:56, Lux: 203.753189795935 lux
+Time: 2024-11-26 17:22:58, Moisture: Dry
+Time: 2024-11-26 17:22:58, Moisture: Dry
+Time: 2024-11-26 17:22:58, Lux: 203.79257503893663 lux
+Time: 2024-11-26 17:23:00, Moisture: Dry
+Time: 2024-11-26 17:23:01, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:01, Lux: 203.76061529097532 lux
+Time: 2024-11-26 17:23:01, Lux: 203.76061529097532 lux
+Time: 2024-11-26 17:23:03, Moisture: Dry
+Time: 2024-11-26 17:23:03, Moisture: Dry
+Time: 2024-11-26 17:23:03, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:03, Lux: 203.72865525899198 lux
+Time: 2024-11-26 17:23:03, Lux: 203.72865525899198 lux
+Time: 2024-11-26 17:23:05, Moisture: Dry
+Time: 2024-11-26 17:23:05, Moisture: Dry
+Time: 2024-11-26 17:23:05, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:05, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:05, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:23:07, Moisture: Dry
+Time: 2024-11-26 17:23:07, Moisture: Dry
+Time: 2024-11-26 17:23:07, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:23:10, Moisture: Dry
+Time: 2024-11-26 17:23:10, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:10, Lux: 203.76061529097532 lux
+Time: 2024-11-26 17:23:12, Moisture: Dry
+Time: 2024-11-26 17:23:12, Moisture: Dry
+Time: 2024-11-26 17:23:12, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:12, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:12, Lux: 203.72865525899198 lux
+Time: 2024-11-26 17:23:14, Moisture: Dry
+Time: 2024-11-26 17:23:14, Lux: 203.79257503893663 lux
+Time: 2024-11-26 17:23:14, Lux: 203.79257503893663 lux
+Time: 2024-11-26 17:23:16, Moisture: Dry
+Time: 2024-11-26 17:23:17, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:17, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:23:17, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:23:19, Moisture: Dry
+Time: 2024-11-26 17:23:19, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:19, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:23:19, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:23:21, Moisture: Dry
+Time: 2024-11-26 17:23:21, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:21, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:23:23, Moisture: Dry
+Time: 2024-11-26 17:23:23, Moisture: Dry
+Time: 2024-11-26 17:23:23, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:23, Lux: 203.76061529097532 lux
+Time: 2024-11-26 17:23:25, Moisture: Dry
+Time: 2024-11-26 17:23:26, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:26, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:26, Lux: 203.72865525899198 lux
+Time: 2024-11-26 17:23:26, Lux: 203.72865525899198 lux
+Time: 2024-11-26 17:23:28, Moisture: Dry
+Time: 2024-11-26 17:23:28, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:28, Lux: 203.72865525899198 lux
+Time: 2024-11-26 17:23:28, Lux: 203.72865525899198 lux
+Time: 2024-11-26 17:23:30, Moisture: Dry
+Time: 2024-11-26 17:23:30, Moisture: Dry
+Time: 2024-11-26 17:23:30, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:30, Lux: 203.78515130842356 lux
+Time: 2024-11-26 17:23:32, Moisture: Dry
+Time: 2024-11-26 17:23:32, Moisture: Dry
+Time: 2024-11-26 17:23:33, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:33, Lux: 203.78515130842356 lux
+Time: 2024-11-26 17:23:33, Lux: 203.78515130842356 lux
+Time: 2024-11-26 17:23:34, Moisture: Dry
+Time: 2024-11-26 17:23:35, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:35, Lux: 203.6966949428978 lux
+Time: 2024-11-26 17:23:37, Moisture: Dry
+Time: 2024-11-26 17:23:37, Moisture: Dry
+Time: 2024-11-26 17:23:37, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:37, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:37, Lux: 203.6966949428978 lux
+Time: 2024-11-26 17:23:37, Lux: 203.6966949428978 lux
+Time: 2024-11-26 17:23:39, Moisture: Dry
+Time: 2024-11-26 17:23:39, Moisture: Dry
+Time: 2024-11-26 17:23:39, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:39, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:40, Lux: 203.6966949428978 lux
+Time: 2024-11-26 17:23:41, Moisture: Dry
+Time: 2024-11-26 17:23:41, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:41, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:42, Lux: 203.67215416914775 lux
+Time: 2024-11-26 17:23:42, Lux: 203.67215416914775 lux
+Time: 2024-11-26 17:23:43, Moisture: Dry
+Time: 2024-11-26 17:23:43, Moisture: Dry
+Time: 2024-11-26 17:23:44, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:44, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:44, Lux: 203.36739224073534 lux
+Time: 2024-11-26 17:23:44, Lux: 203.36739224073534 lux
+Time: 2024-11-26 17:23:46, Moisture: Dry
+Time: 2024-11-26 17:23:46, Moisture: Dry
+Time: 2024-11-26 17:23:46, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:46, Lux: 202.26135397086054 lux
+Time: 2024-11-26 17:23:46, Lux: 202.26135397086054 lux
+Time: 2024-11-26 17:23:48, Moisture: Dry
+Time: 2024-11-26 17:23:48, Moisture: Dry
+Time: 2024-11-26 17:23:48, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:48, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:48, Lux: 202.47765154756044 lux
+Time: 2024-11-26 17:23:48, Lux: 202.47765154756044 lux
+Time: 2024-11-26 17:23:50, Moisture: Dry
+Time: 2024-11-26 17:23:51, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:51, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:51, Lux: 200.98576301768097 lux
+Time: 2024-11-26 17:23:51, Lux: 200.98576301768097 lux
+Time: 2024-11-26 17:23:53, Moisture: Dry
+Time: 2024-11-26 17:23:53, Moisture: Dry
+Time: 2024-11-26 17:23:53, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:53, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:53, Lux: 201.40356965195622 lux
+Time: 2024-11-26 17:23:53, Lux: 201.40356965195622 lux
+Time: 2024-11-26 17:23:55, Moisture: Dry
+Time: 2024-11-26 17:23:55, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:55, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:55, Lux: 198.14422608784136 lux
+Time: 2024-11-26 17:23:57, Moisture: Dry
+Time: 2024-11-26 17:23:57, Moisture: Dry
+Time: 2024-11-26 17:23:57, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:57, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:23:57, Lux: 201.04459764433076 lux
+Time: 2024-11-26 17:23:59, Moisture: Dry
+Time: 2024-11-26 17:23:59, Moisture: Dry
+Time: 2024-11-26 17:24:00, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:24:00, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:24:00, Lux: 198.60879418981926 lux
+Time: 2024-11-26 17:24:00, Lux: 198.60879418981926 lux
+Time: 2024-11-26 17:24:02, Moisture: Dry
+Time: 2024-11-26 17:24:02, Moisture: Dry
+Time: 2024-11-26 17:24:02, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:02, Lux: 198.23267090152567 lux
+Time: 2024-11-26 17:24:02, Lux: 198.23267090152567 lux
+Time: 2024-11-26 17:24:04, Moisture: Dry
+Time: 2024-11-26 17:24:04, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:04, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:04, Lux: 202.13352003958423 lux
+Time: 2024-11-26 17:24:04, Lux: 202.13352003958423 lux
+Time: 2024-11-26 17:24:06, Moisture: Dry
+Time: 2024-11-26 17:24:06, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:07, Lux: 202.2859002771445 lux
+Time: 2024-11-26 17:24:07, Lux: 202.2859002771445 lux
+Time: 2024-11-26 17:24:08, Moisture: Dry
+Time: 2024-11-26 17:24:08, Moisture: Dry
+Time: 2024-11-26 17:24:09, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:09, Lux: 202.26135397086054 lux
+Time: 2024-11-26 17:24:11, Moisture: Dry
+Time: 2024-11-26 17:24:11, Moisture: Dry
+Time: 2024-11-26 17:24:11, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:11, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:11, Lux: 202.16547895144475 lux
+Time: 2024-11-26 17:24:13, Moisture: Dry
+Time: 2024-11-26 17:24:13, Moisture: Dry
+Time: 2024-11-26 17:24:13, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:13, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:13, Lux: 202.07701421124295 lux
+Time: 2024-11-26 17:24:14, Lux: 202.07701421124295 lux
+Time: 2024-11-26 17:24:15, Moisture: Dry
+Time: 2024-11-26 17:24:15, Moisture: Dry
+Time: 2024-11-26 17:24:15, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:16, Lux: 202.17288646879695 lux
+Time: 2024-11-26 17:24:16, Lux: 202.17288646879695 lux
+Time: 2024-11-26 17:24:17, Moisture: Dry
+Time: 2024-11-26 17:24:17, Moisture: Dry
+Time: 2024-11-26 17:24:18, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:18, Lux: 202.3572264179162 lux
+Time: 2024-11-26 17:24:18, Lux: 202.3572264179162 lux
+Time: 2024-11-26 17:24:20, Moisture: Dry
+Time: 2024-11-26 17:24:20, Moisture: Dry
+Time: 2024-11-26 17:24:20, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:24:20, Lux: 203.15109419767637 lux
+Time: 2024-11-26 17:24:22, Moisture: Dry
+Time: 2024-11-26 17:24:22, Moisture: Dry
+Time: 2024-11-26 17:24:22, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:24:22, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:24:22, Lux: 203.39193661550618 lux
+Time: 2024-11-26 17:24:24, Moisture: Dry
+Time: 2024-11-26 17:24:24, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:24, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:25, Lux: 203.6082356469995 lux
+Time: 2024-11-26 17:24:26, Moisture: Dry
+Time: 2024-11-26 17:24:27, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:27, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:27, Lux: 203.60081228906336 lux
+Time: 2024-11-26 17:24:29, Moisture: Dry
+Time: 2024-11-26 17:24:29, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:24:29, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:24:29, Lux: 203.6966949428978 lux
+Time: 2024-11-26 17:24:31, Moisture: Dry
+Time: 2024-11-26 17:24:31, Temperature: 24C, Humidity: 34%
+Time: 2024-11-26 17:24:32, Lux: 203.66473434260416 lux
+Time: 2024-11-26 17:24:32, Lux: 203.66473434260416 lux
+Time: 2024-11-26 17:24:33, Moisture: Dry
+Time: 2024-11-26 17:24:33, Moisture: Dry
+Time: 2024-11-26 17:24:34, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:34, Lux: 203.6966949428978 lux
+Time: 2024-11-26 17:24:34, Lux: 203.6966949428978 lux
+Time: 2024-11-26 17:24:36, Moisture: Dry
+Time: 2024-11-26 17:24:36, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:36, Lux: 203.66473434260416 lux
+Time: 2024-11-26 17:24:36, Lux: 203.66473434260416 lux
+Time: 2024-11-26 17:24:38, Moisture: Dry
+Time: 2024-11-26 17:24:38, Moisture: Dry
+Time: 2024-11-26 17:24:38, Temperature: 24C, Humidity: 34%
+Time: 2024-11-26 17:24:38, Temperature: 24C, Humidity: 34%
+Time: 2024-11-26 17:24:38, Lux: 203.66473434260416 lux
+Time: 2024-11-26 17:24:38, Lux: 203.66473434260416 lux
+Time: 2024-11-26 17:24:40, Moisture: Dry
+Time: 2024-11-26 17:24:40, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:40, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:40, Lux: 203.54431598812684 lux
+Time: 2024-11-26 17:24:40, Lux: 203.54431598812684 lux
+Time: 2024-11-26 17:24:42, Moisture: Dry
+Time: 2024-11-26 17:24:42, Moisture: Dry
+Time: 2024-11-26 17:24:43, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:43, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:43, Lux: 203.48781464190228 lux
+Time: 2024-11-26 17:24:43, Lux: 203.48781464190228 lux
+Time: 2024-11-26 17:24:45, Moisture: Dry
+Time: 2024-11-26 17:24:45, Moisture: Dry
+Time: 2024-11-26 17:24:45, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:45, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:45, Lux: 203.51235573219688 lux
+Time: 2024-11-26 17:24:47, Moisture: Dry
+Time: 2024-11-26 17:24:47, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:47, Lux: 203.4803951918193 lux
+Time: 2024-11-26 17:24:49, Moisture: Dry
+Time: 2024-11-26 17:24:49, Moisture: Dry
+Time: 2024-11-26 17:24:49, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:49, Lux: 203.51235573219688 lux
+Time: 2024-11-26 17:24:51, Moisture: Dry
+Time: 2024-11-26 17:24:52, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:52, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:52, Lux: 203.63277345802226 lux
+Time: 2024-11-26 17:24:52, Lux: 203.63277345802226 lux
+Time: 2024-11-26 17:24:54, Moisture: Dry
+Time: 2024-11-26 17:24:54, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:54, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:24:54, Lux: 203.753189795935 lux
+Time: 2024-11-26 17:24:56, Moisture: Dry
+Time: 2024-11-26 17:24:56, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:56, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:24:56, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:24:58, Moisture: Dry
+Time: 2024-11-26 17:24:58, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:24:58, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:24:59, Lux: 203.78515130842356 lux
+Time: 2024-11-26 17:24:59, Lux: 203.78515130842356 lux
+Time: 2024-11-26 17:25:00, Moisture: Dry
+Time: 2024-11-26 17:25:01, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:25:01, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:25:03, Moisture: Dry
+Time: 2024-11-26 17:25:03, Moisture: Dry
+Time: 2024-11-26 17:25:03, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:25:03, Lux: 203.78515130842356 lux
+Time: 2024-11-26 17:25:05, Moisture: Dry
+Time: 2024-11-26 17:25:05, Moisture: Dry
+Time: 2024-11-26 17:25:05, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:25:05, Temperature: 24C, Humidity: 35%
+Time: 2024-11-26 17:25:05, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:25:05, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:25:07, Moisture: Dry
+Time: 2024-11-26 17:25:08, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:08, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:25:08, Lux: 203.84907348083618 lux
+Time: 2024-11-26 17:25:10, Moisture: Dry
+Time: 2024-11-26 17:25:10, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:10, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:10, Lux: 203.753189795935 lux
+Time: 2024-11-26 17:25:12, Moisture: Dry
+Time: 2024-11-26 17:25:12, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:12, Lux: 203.30347510137443 lux
+Time: 2024-11-26 17:25:12, Lux: 203.30347510137443 lux
+Time: 2024-11-26 17:25:14, Moisture: Dry
+Time: 2024-11-26 17:25:14, Moisture: Dry
+Time: 2024-11-26 17:25:14, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:14, Lux: 202.50960909293465 lux
+Time: 2024-11-26 17:25:16, Moisture: Dry
+Time: 2024-11-26 17:25:17, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:17, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:17, Lux: 203.2789259525727 lux
+Time: 2024-11-26 17:25:19, Moisture: Dry
+Time: 2024-11-26 17:25:19, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:19, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:25:21, Moisture: Dry
+Time: 2024-11-26 17:25:21, Lux: 203.753189795935 lux
+Time: 2024-11-26 17:25:23, Moisture: Dry
+Time: 2024-11-26 17:25:23, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:23, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:25:23, Lux: 203.8171125366944 lux
+Time: 2024-11-26 17:25:28, Moisture: Dry
+Time: 2024-11-26 17:25:28, Moisture: Dry
+Time: 2024-11-26 17:25:28, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:25:30, Moisture: Dry
+Time: 2024-11-26 17:25:30, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:11, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:26:11, Lux: 203.78515130842356
+Time: 2024-11-26 17:26:13, Moisture: Dry
+Time: 2024-11-26 17:26:13, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:26:13, Lux: 203.78515130842356
+Time: 2024-11-26 17:26:13, Lux: 203.78515130842356
+Time: 2024-11-26 17:26:15, Moisture: Dry
+Time: 2024-11-26 17:26:15, Moisture: Dry
+Time: 2024-11-26 17:26:15, Lux: 203.8171125366944
+Time: 2024-11-26 17:26:17, Moisture: Dry
+Time: 2024-11-26 17:26:17, Moisture: Dry
+Time: 2024-11-26 17:26:18, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:18, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:18, Lux: 55.13204825471405
+Time: 2024-11-26 17:26:18, Lux: 55.13204825471405
+Time: 2024-11-26 17:26:20, Moisture: Dry
+Time: 2024-11-26 17:26:20, Moisture: Dry
+Time: 2024-11-26 17:26:20, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:20, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:20, Lux: 187.86485170419473
+Time: 2024-11-26 17:26:20, Lux: 187.86485170419473
+Time: 2024-11-26 17:26:22, Moisture: Dry
+Time: 2024-11-26 17:26:22, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:22, Lux: 207.22628825657137
+Time: 2024-11-26 17:26:24, Moisture: Dry
+Time: 2024-11-26 17:26:24, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:25, Lux: 207.2115750514387
+Time: 2024-11-26 17:26:27, Moisture: Dry
+Time: 2024-11-26 17:26:27, Moisture: Dry
+Time: 2024-11-26 17:26:27, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:27, Lux: 207.14767160271242
+Time: 2024-11-26 17:26:29, Moisture: Dry
+Time: 2024-11-26 17:26:29, Moisture: Dry
+Time: 2024-11-26 17:26:29, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:29, Lux: 4.025989050072791
+Time: 2024-11-26 17:26:31, Moisture: Dry
+Time: 2024-11-26 17:26:31, Moisture: Dry
+Time: 2024-11-26 17:26:31, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:31, Lux: 190.85391718198878
+Time: 2024-11-26 17:26:33, Moisture: Dry
+Time: 2024-11-26 17:26:34, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:34, Lux: 210.9572683741247
+Time: 2024-11-26 17:26:34, Lux: 210.9572683741247
+Time: 2024-11-26 17:26:36, Moisture: Dry
+Time: 2024-11-26 17:26:36, Moisture: Dry
+Time: 2024-11-26 17:26:36, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:36, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:36, Lux: 210.244445820623
+Time: 2024-11-26 17:26:38, Moisture: Dry
+Time: 2024-11-26 17:26:38, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:38, Lux: 209.8363688379693
+Time: 2024-11-26 17:26:38, Lux: 209.8363688379693
+Time: 2024-11-26 17:26:40, Moisture: Dry
+Time: 2024-11-26 17:26:40, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:40, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:40, Lux: 193.14099364549725
+Time: 2024-11-26 17:26:40, Lux: 193.14099364549725
+Time: 2024-11-26 17:26:42, Moisture: Dry
+Time: 2024-11-26 17:26:42, Moisture: Dry
+Time: 2024-11-26 17:26:43, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:43, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:43, Lux: 193.44392245865333
+Time: 2024-11-26 17:26:43, Lux: 193.44392245865333
+Time: 2024-11-26 17:26:45, Moisture: Dry
+Time: 2024-11-26 17:26:45, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:45, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:45, Lux: 210.22210495375674
+Time: 2024-11-26 17:26:45, Lux: 210.22210495375674
+Time: 2024-11-26 17:26:47, Moisture: Dry
+Time: 2024-11-26 17:26:47, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:47, Lux: 182.0545042498591
+Time: 2024-11-26 17:26:47, Lux: 182.0545042498591
+Time: 2024-11-26 17:26:49, Moisture: Dry
+Time: 2024-11-26 17:26:49, Moisture: Dry
+Time: 2024-11-26 17:26:49, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:49, Lux: 176.25369952672784
+Time: 2024-11-26 17:26:51, Moisture: Dry
+Time: 2024-11-26 17:26:51, Moisture: Dry
+Time: 2024-11-26 17:26:52, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:52, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:52, Lux: 201.36096879029833
+Time: 2024-11-26 17:26:52, Lux: 201.36096879029833
+Time: 2024-11-26 17:26:54, Moisture: Dry
+Time: 2024-11-26 17:26:54, Moisture: Dry
+Time: 2024-11-26 17:26:54, Lux: 209.3269259972621
+Time: 2024-11-26 17:26:56, Moisture: Dry
+Time: 2024-11-26 17:26:56, Moisture: Dry
+Time: 2024-11-26 17:26:56, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:56, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:56, Lux: 209.59215200927224
+Time: 2024-11-26 17:26:56, Lux: 209.59215200927224
+Time: 2024-11-26 17:26:58, Moisture: Dry
+Time: 2024-11-26 17:26:58, Moisture: Dry
+Time: 2024-11-26 17:26:58, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:26:59, Lux: 209.23100104004467
+Time: 2024-11-26 17:27:00, Moisture: Dry
+Time: 2024-11-26 17:27:00, Moisture: Dry
+Time: 2024-11-26 17:27:01, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:27:01, Lux: 209.80093428765574
+Time: 2024-11-26 17:27:01, Lux: 209.80093428765574
+Time: 2024-11-26 17:27:03, Moisture: Dry
+Time: 2024-11-26 17:27:03, Moisture: Dry
+Time: 2024-11-26 17:27:03, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:27:03, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:27:03, Lux: 209.95329131478937
+Time: 2024-11-26 17:27:05, Moisture: Dry
+Time: 2024-11-26 17:27:05, Moisture: Dry
+Time: 2024-11-26 17:27:05, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:27:06, Lux: 209.42472147638074
+Time: 2024-11-26 17:27:06, Lux: 209.42472147638074
+Time: 2024-11-26 17:27:07, Moisture: Dry
+Time: 2024-11-26 17:27:07, Moisture: Dry
+Time: 2024-11-26 17:27:08, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:27:08, Temperature: 25C, Humidity: 35%
+Time: 2024-11-26 17:27:08, Lux: 210.00970872927513
+Time: 2024-11-26 17:27:08, Lux: 210.00970872927513
+Time: 2024-11-26 17:27:10, Moisture: Dry
+Time: 2024-11-26 17:27:10, Moisture: Dry
+Time: 2024-11-26 17:27:10, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:10, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:10, Lux: 210.01724877813962
+Time: 2024-11-26 17:27:10, Lux: 210.01724877813962
+Time: 2024-11-26 17:27:12, Moisture: Dry
+Time: 2024-11-26 17:27:12, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:12, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:12, Lux: 210.00970872927513
+Time: 2024-11-26 17:27:14, Moisture: Dry
+Time: 2024-11-26 17:27:14, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:14, Lux: 210.22602447485218
+Time: 2024-11-26 17:27:14, Lux: 210.22602447485218
+Time: 2024-11-26 17:27:16, Moisture: Dry
+Time: 2024-11-26 17:27:17, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:17, Lux: 209.95329131478937
+Time: 2024-11-26 17:27:19, Moisture: Dry
+Time: 2024-11-26 17:27:19, Moisture: Dry
+Time: 2024-11-26 17:27:19, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:19, Lux: 210.06612135284436
+Time: 2024-11-26 17:27:21, Moisture: Dry
+Time: 2024-11-26 17:27:21, Moisture: Dry
+Time: 2024-11-26 17:27:21, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:21, Lux: 210.25045686379156
+Time: 2024-11-26 17:27:23, Moisture: Dry
+Time: 2024-11-26 17:27:23, Moisture: Dry
+Time: 2024-11-26 17:27:23, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:23, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:23, Lux: 210.18649358540034
+Time: 2024-11-26 17:27:25, Moisture: Dry
+Time: 2024-11-26 17:27:26, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:26, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:26, Lux: 210.15451152827657
+Time: 2024-11-26 17:27:26, Lux: 210.15451152827657
+Time: 2024-11-26 17:27:28, Moisture: Dry
+Time: 2024-11-26 17:27:28, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:28, Lux: 210.18649358540034
+Time: 2024-11-26 17:27:28, Lux: 210.18649358540034
+Time: 2024-11-26 17:27:30, Moisture: Dry
+Time: 2024-11-26 17:27:30, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:30, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:30, Lux: 210.37082901164487
+Time: 2024-11-26 17:27:32, Moisture: Dry
+Time: 2024-11-26 17:27:32, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:32, Moisture: Dry
+Time: 2024-11-26 17:27:32, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:32, Lux: 210.4347923690555
+Time: 2024-11-26 17:27:32, Lux: 210.4347923690555
+Time: 2024-11-26 17:27:34, Moisture: Dry
+Time: 2024-11-26 17:27:34, Moisture: Dry
+Time: 2024-11-26 17:27:35, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:35, Lux: 210.40281082951248
+Time: 2024-11-26 17:27:35, Lux: 210.40281082951248
+Time: 2024-11-26 17:27:37, Moisture: Dry
+Time: 2024-11-26 17:27:37, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:37, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:37, Lux: 210.4347923690555
+Time: 2024-11-26 17:27:39, Moisture: Dry
+Time: 2024-11-26 17:27:39, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:39, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:39, Lux: 210.46677363035792
+Time: 2024-11-26 17:27:39, Lux: 210.46677363035792
+Time: 2024-11-26 17:27:41, Moisture: Dry
+Time: 2024-11-26 17:27:41, Lux: 210.46677363035792
+Time: 2024-11-26 17:27:43, Moisture: Dry
+Time: 2024-11-26 17:27:43, Moisture: Dry
+Time: 2024-11-26 17:27:44, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:44, Lux: 210.34639969299883
+Time: 2024-11-26 17:27:44, Lux: 210.34639969299883
+Time: 2024-11-26 17:27:46, Moisture: Dry
+Time: 2024-11-26 17:27:46, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:46, Lux: 210.34639969299883
+Time: 2024-11-26 17:27:48, Moisture: Dry
+Time: 2024-11-26 17:27:48, Moisture: Dry
+Time: 2024-11-26 17:27:48, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:48, Lux: 210.1940444073797
+Time: 2024-11-26 17:27:50, Moisture: Dry
+Time: 2024-11-26 17:27:50, Moisture: Dry
+Time: 2024-11-26 17:27:51, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:51, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:51, Lux: 210.06612135284436
+Time: 2024-11-26 17:27:53, Moisture: Dry
+Time: 2024-11-26 17:27:53, Moisture: Dry
+Time: 2024-11-26 17:27:53, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:53, Lux: 209.73697635123
+Time: 2024-11-26 17:27:53, Lux: 209.73697635123
+Time: 2024-11-26 17:27:55, Moisture: Dry
+Time: 2024-11-26 17:27:55, Moisture: Dry
+Time: 2024-11-26 17:27:55, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:55, Lux: 208.31870741914287
+Time: 2024-11-26 17:27:57, Moisture: Dry
+Time: 2024-11-26 17:27:57, Moisture: Dry
+Time: 2024-11-26 17:27:57, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:57, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:27:57, Lux: 209.15952493353768
+Time: 2024-11-26 17:27:57, Lux: 209.15952493353768
+Time: 2024-11-26 17:27:59, Moisture: Dry
+Time: 2024-11-26 17:28:00, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:00, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:00, Lux: 197.94323067660457
+Time: 2024-11-26 17:28:02, Moisture: Dry
+Time: 2024-11-26 17:28:02, Moisture: Dry
+Time: 2024-11-26 17:28:02, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:02, Lux: 3.4385813946618655
+Time: 2024-11-26 17:28:02, Lux: 3.4385813946618655
+Time: 2024-11-26 17:28:04, Moisture: Dry
+Time: 2024-11-26 17:28:04, Moisture: Dry
+Time: 2024-11-26 17:28:04, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:04, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:04, Lux: 3.7838213433398717
+Time: 2024-11-26 17:28:04, Lux: 3.7838213433398717
+Time: 2024-11-26 17:28:06, Moisture: Dry
+Time: 2024-11-26 17:28:06, Moisture: Dry
+Time: 2024-11-26 17:28:06, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:07, Lux: 3.8701004954723444
+Time: 2024-11-26 17:28:07, Lux: 3.8701004954723444
+Time: 2024-11-26 17:28:08, Moisture: Dry
+Time: 2024-11-26 17:28:08, Moisture: Dry
+Time: 2024-11-26 17:28:09, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:09, Lux: 33.91991458884097
+Time: 2024-11-26 17:28:09, Lux: 33.91991458884097
+Time: 2024-11-26 17:28:11, Moisture: Dry
+Time: 2024-11-26 17:28:11, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:11, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:11, Lux: 6.459366368565687
+Time: 2024-11-26 17:28:11, Lux: 6.459366368565687
+Time: 2024-11-26 17:28:13, Moisture: Dry
+Time: 2024-11-26 17:28:13, Moisture: Dry
+Time: 2024-11-26 17:28:13, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:13, Lux: 3.3221660249213074
+Time: 2024-11-26 17:28:13, Lux: 3.3221660249213074
+Time: 2024-11-26 17:28:15, Moisture: Dry
+Time: 2024-11-26 17:28:15, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:15, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:15, Lux: 175.22863240273912
+Time: 2024-11-26 17:28:17, Moisture: Dry
+Time: 2024-11-26 17:28:18, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:18, Lux: 178.1658875368929
+Time: 2024-11-26 17:28:18, Lux: 178.1658875368929
+Time: 2024-11-26 17:28:20, Moisture: Dry
+Time: 2024-11-26 17:28:20, Moisture: Dry
+Time: 2024-11-26 17:28:20, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:20, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:20, Lux: 164.06036427466887
+Time: 2024-11-26 17:28:20, Lux: 164.06036427466887
+Time: 2024-11-26 17:28:22, Moisture: Dry
+Time: 2024-11-26 17:28:22, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:22, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:22, Lux: 179.07455247531055
+Time: 2024-11-26 17:28:23, Lux: 179.07455247531055
+Time: 2024-11-26 17:28:24, Moisture: Dry
+Time: 2024-11-26 17:28:24, Moisture: Dry
+Time: 2024-11-26 17:28:24, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:25, Lux: 179.21754867507718
+Time: 2024-11-26 17:28:25, Lux: 179.21754867507718
+Time: 2024-11-26 17:28:26, Moisture: Dry
+Time: 2024-11-26 17:28:26, Moisture: Dry
+Time: 2024-11-26 17:28:27, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:27, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:27, Lux: 179.18528686731764
+Time: 2024-11-26 17:28:27, Lux: 179.18528686731764
+Time: 2024-11-26 17:28:29, Moisture: Dry
+Time: 2024-11-26 17:28:29, Moisture: Dry
+Time: 2024-11-26 17:28:29, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:29, Lux: 178.81646465053421
+Time: 2024-11-26 17:28:29, Lux: 178.81646465053421
+Time: 2024-11-26 17:28:31, Moisture: Dry
+Time: 2024-11-26 17:28:31, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:31, Lux: 178.84872694114105
+Time: 2024-11-26 17:28:33, Moisture: Dry
+Time: 2024-11-26 17:28:34, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:34, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:34, Lux: 178.33691388923145
+Time: 2024-11-26 17:28:34, Lux: 178.33691388923145
+Time: 2024-11-26 17:28:36, Moisture: Dry
+Time: 2024-11-26 17:28:36, Lux: 178.64596852229533
+Time: 2024-11-26 17:28:36, Lux: 178.64596852229533
+Time: 2024-11-26 17:28:38, Moisture: Dry
+Time: 2024-11-26 17:28:38, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:38, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:38, Lux: 177.6454656006791
+Time: 2024-11-26 17:28:40, Moisture: Dry
+Time: 2024-11-26 17:28:40, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:40, Lux: 178.19870298547687
+Time: 2024-11-26 17:28:42, Moisture: Dry
+Time: 2024-11-26 17:28:42, Moisture: Dry
+Time: 2024-11-26 17:28:43, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:43, Lux: 176.74604260741899
+Time: 2024-11-26 17:28:45, Moisture: Dry
+Time: 2024-11-26 17:28:45, Moisture: Dry
+Time: 2024-11-26 17:28:45, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:45, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:45, Lux: 179.14385629062764
+Time: 2024-11-26 17:28:45, Lux: 179.14385629062764
+Time: 2024-11-26 17:28:47, Moisture: Dry
+Time: 2024-11-26 17:28:47, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:47, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:47, Lux: 179.22229078237106
+Time: 2024-11-26 17:28:47, Lux: 179.22229078237106
+Time: 2024-11-26 17:28:49, Moisture: Dry
+Time: 2024-11-26 17:28:49, Moisture: Dry
+Time: 2024-11-26 17:28:49, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:49, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:49, Lux: 163.56793383923235
+Time: 2024-11-26 17:28:49, Lux: 163.56793383923235
+Time: 2024-11-26 17:28:51, Moisture: Dry
+Time: 2024-11-26 17:28:52, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:52, Lux: 160.4817846268075
+Time: 2024-11-26 17:28:54, Moisture: Dry
+Time: 2024-11-26 17:28:54, Moisture: Dry
+Time: 2024-11-26 17:28:54, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:54, Lux: 3.8883112306733727
+Time: 2024-11-26 17:28:54, Lux: 3.8883112306733727
+Time: 2024-11-26 17:28:56, Moisture: Dry
+Time: 2024-11-26 17:28:56, Moisture: Dry
+Time: 2024-11-26 17:28:56, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:56, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:57, Lux: 4.163666572882059
+Time: 2024-11-26 17:28:57, Lux: 4.163666572882059
+Time: 2024-11-26 17:28:58, Moisture: Dry
+Time: 2024-11-26 17:28:58, Moisture: Dry
+Time: 2024-11-26 17:28:58, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:58, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:28:59, Lux: 48.153529214949785
+Time: 2024-11-26 17:28:59, Lux: 48.153529214949785
+Time: 2024-11-26 17:29:00, Moisture: Dry
+Time: 2024-11-26 17:29:00, Moisture: Dry
+Time: 2024-11-26 17:29:01, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:01, Lux: 40.59289554210572
+Time: 2024-11-26 17:29:01, Lux: 40.59289554210572
+Time: 2024-11-26 17:29:03, Moisture: Dry
+Time: 2024-11-26 17:29:03, Moisture: Dry
+Time: 2024-11-26 17:29:03, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:03, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:03, Lux: 204.00823778383915
+Time: 2024-11-26 17:29:05, Moisture: Dry
+Time: 2024-11-26 17:29:05, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:05, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:05, Lux: 199.25657250098308
+Time: 2024-11-26 17:29:05, Lux: 199.25657250098308
+Time: 2024-11-26 17:29:07, Moisture: Dry
+Time: 2024-11-26 17:29:07, Moisture: Dry
+Time: 2024-11-26 17:29:08, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:08, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:08, Lux: 204.28065757277335
+Time: 2024-11-26 17:29:10, Moisture: Dry
+Time: 2024-11-26 17:29:10, Moisture: Dry
+Time: 2024-11-26 17:29:10, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:10, Lux: 203.71946402906585
+Time: 2024-11-26 17:29:12, Moisture: Dry
+Time: 2024-11-26 17:29:12, Moisture: Dry
+Time: 2024-11-26 17:29:12, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:12, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:12, Lux: 200.74672480846394
+Time: 2024-11-26 17:29:12, Lux: 200.74672480846394
+Time: 2024-11-26 17:29:14, Moisture: Dry
+Time: 2024-11-26 17:29:14, Moisture: Dry
+Time: 2024-11-26 17:29:14, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:14, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:14, Lux: 204.27247745245833
+Time: 2024-11-26 17:29:16, Moisture: Dry
+Time: 2024-11-26 17:29:16, Moisture: Dry
+Time: 2024-11-26 17:29:17, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:17, Lux: 204.36055252143888
+Time: 2024-11-26 17:29:19, Moisture: Dry
+Time: 2024-11-26 17:29:19, Moisture: Dry
+Time: 2024-11-26 17:29:19, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:19, Lux: 204.36055252143888
+Time: 2024-11-26 17:29:19, Lux: 204.36055252143888
+Time: 2024-11-26 17:29:21, Moisture: Dry
+Time: 2024-11-26 17:29:21, Moisture: Dry
+Time: 2024-11-26 17:29:21, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:21, Lux: 204.2321979903574
+Time: 2024-11-26 17:29:23, Moisture: Dry
+Time: 2024-11-26 17:29:23, Moisture: Dry
+Time: 2024-11-26 17:29:23, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:23, Lux: 203.64772885753405
+Time: 2024-11-26 17:29:23, Lux: 203.64772885753405
+Time: 2024-11-26 17:29:25, Moisture: Dry
+Time: 2024-11-26 17:29:25, Moisture: Dry
+Time: 2024-11-26 17:29:26, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:26, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:26, Lux: 196.43548996463196
+Time: 2024-11-26 17:29:26, Lux: 196.43548996463196
+Time: 2024-11-26 17:29:28, Moisture: Dry
+Time: 2024-11-26 17:29:28, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:28, Lux: 204.9292586111398
+Time: 2024-11-26 17:29:30, Moisture: Dry
+Time: 2024-11-26 17:29:30, Temperature: 25C, Humidity: 34%
+Time: 2024-11-26 17:29:30, Lux: 204.9210455943832
+Time: 2024-11-26 17:29:31, Lux: 204.9210455943832
+Time: 2024-11-26 17:29:32, Moisture: Dry

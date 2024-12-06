@@ -1,0 +1,239 @@
+Time: 2024-12-05 20:07:50, Moisture: Wet
+Time: 2024-12-05 20:07:50, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:07:50, Lux: 22.785837996717184
+Time: 2024-12-05 20:07:52, Moisture: Wet
+Time: 2024-12-05 20:07:53, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:07:53, Lux: 25.31417223449775
+Time: 2024-12-05 20:07:55, Moisture: Wet
+Time: 2024-12-05 20:07:55, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:07:55, Lux: 25.236464411845574
+Time: 2024-12-05 20:07:57, Moisture: Wet
+Time: 2024-12-05 20:07:57, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:07:57, Lux: 24.83514196143442
+Time: 2024-12-05 20:07:59, Moisture: Wet
+Time: 2024-12-05 20:07:59, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:07:59, Lux: 24.553552230773413
+Time: 2024-12-05 20:08:01, Moisture: Wet
+Time: 2024-12-05 20:08:02, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:02, Lux: 24.161915891758586
+Time: 2024-12-05 20:08:04, Moisture: Wet
+Time: 2024-12-05 20:08:04, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:04, Lux: 23.967672796355487
+Time: 2024-12-05 20:08:06, Moisture: Wet
+Time: 2024-12-05 20:08:06, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:06, Lux: 19.77797714526303
+Time: 2024-12-05 20:08:08, Moisture: Wet
+Time: 2024-12-05 20:08:08, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:08, Lux: 19.47372825188664
+Time: 2024-12-05 20:08:10, Moisture: Wet
+Time: 2024-12-05 20:08:11, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:11, Lux: 19.506196362261484
+Time: 2024-12-05 20:08:13, Moisture: Wet
+Time: 2024-12-05 20:08:13, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:13, Lux: 19.311331157363014
+Time: 2024-12-05 20:08:15, Moisture: Wet
+Time: 2024-12-05 20:08:15, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:15, Lux: 19.49594445373292
+Time: 2024-12-05 20:08:17, Moisture: Wet
+Time: 2024-12-05 20:08:17, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:17, Lux: 19.593381268218405
+Time: 2024-12-05 20:08:19, Moisture: Wet
+Time: 2024-12-05 20:08:20, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:20, Lux: 16.193283488483182
+Time: 2024-12-05 20:08:22, Moisture: Wet
+Time: 2024-12-05 20:08:22, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:22, Lux: 12.198980032372642
+Time: 2024-12-05 20:08:24, Moisture: Wet
+Time: 2024-12-05 20:08:24, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:24, Lux: 12.244401442955956
+Time: 2024-12-05 20:08:26, Moisture: Wet
+Time: 2024-12-05 20:08:26, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:27, Lux: 11.820403624998127
+Time: 2024-12-05 20:08:28, Moisture: Wet
+Time: 2024-12-05 20:08:29, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:29, Lux: 11.700645691414264
+Time: 2024-12-05 20:08:31, Moisture: Wet
+Time: 2024-12-05 20:08:31, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:31, Lux: 11.700645691414264
+Time: 2024-12-05 20:08:33, Moisture: Wet
+Time: 2024-12-05 20:08:33, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:33, Lux: 11.668279333082076
+Time: 2024-12-05 20:08:35, Moisture: Wet
+Time: 2024-12-05 20:08:36, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:36, Lux: 11.700645691414264
+Time: 2024-12-05 20:08:38, Moisture: Wet
+Time: 2024-12-05 20:08:38, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:38, Lux: 11.907774841910246
+Time: 2024-12-05 20:08:40, Moisture: Wet
+Time: 2024-12-05 20:08:40, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:40, Lux: 11.755651702192385
+Time: 2024-12-05 20:08:42, Moisture: Wet
+Time: 2024-12-05 20:08:42, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:42, Lux: 11.842998111282705
+Time: 2024-12-05 20:08:44, Moisture: Wet
+Time: 2024-12-05 20:08:45, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:45, Lux: 11.88513177167913
+Time: 2024-12-05 20:08:47, Moisture: Wet
+Time: 2024-12-05 20:08:47, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:47, Lux: 11.820403624998127
+Time: 2024-12-05 20:08:49, Moisture: Dry
+Time: 2024-12-05 20:08:49, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:49, Lux: 11.788030651011576
+Time: 2024-12-05 20:08:51, Moisture: Dry
+Time: 2024-12-05 20:08:51, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:51, Lux: 17.214041575365588
+Time: 2024-12-05 20:08:53, Moisture: Dry
+Time: 2024-12-05 20:08:54, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:08:54, Lux: 17.029417854603143
+Time: 2024-12-05 20:08:56, Moisture: Dry
+Time: 2024-12-05 20:08:56, Temperature: 19C, Humidity: 60%
+Time: 2024-12-05 20:11:41, Moisture: Wet
+Time: 2024-12-05 20:11:41, Temperature: 20C, Humidity: 60%
+Time: 2024-12-05 20:11:41, Temperature: 20C, Humidity: 60%
+Time: 2024-12-05 20:11:41, Lux: 135.94832032313025
+Time: 2024-12-05 20:11:41, Lux: 135.94832032313025
+Time: 2024-12-05 20:11:43, Moisture: Wet
+Time: 2024-12-05 20:11:43, Moisture: Wet
+Time: 2024-12-05 20:11:44, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:11:44, Lux: 136.07754490538966
+Time: 2024-12-05 20:11:46, Moisture: Wet
+Time: 2024-12-05 20:11:46, Moisture: Wet
+Time: 2024-12-05 20:11:46, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:11:46, Lux: 135.4039435927989
+Time: 2024-12-05 20:11:46, Lux: 135.4039435927989
+Time: 2024-12-05 20:11:48, Moisture: Wet
+Time: 2024-12-05 20:11:48, Moisture: Wet
+Time: 2024-12-05 20:11:48, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:11:48, Lux: 135.52354643994386
+Time: 2024-12-05 20:11:50, Moisture: Wet
+Time: 2024-12-05 20:11:50, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:11:50, Lux: 141.4682919490803
+Time: 2024-12-05 20:11:52, Moisture: Wet
+Time: 2024-12-05 20:11:53, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:11:53, Lux: 141.50082380641624
+Time: 2024-12-05 20:11:55, Moisture: Wet
+Time: 2024-12-05 20:11:55, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:11:55, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:11:55, Lux: 143.0326825313113
+Time: 2024-12-05 20:11:55, Lux: 143.0326825313113
+Time: 2024-12-05 20:11:57, Moisture: Wet
+Time: 2024-12-05 20:11:57, Lux: 139.93545076126725
+Time: 2024-12-05 20:11:57, Lux: 139.93545076126725
+Time: 2024-12-05 20:11:59, Moisture: Wet
+Time: 2024-12-05 20:11:59, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:00, Lux: 139.10869428626725
+Time: 2024-12-05 20:12:00, Lux: 139.10869428626725
+Time: 2024-12-05 20:12:01, Moisture: Wet
+Time: 2024-12-05 20:12:02, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:02, Lux: 138.04376244486707
+Time: 2024-12-05 20:12:02, Lux: 138.04376244486707
+Time: 2024-12-05 20:12:04, Moisture: Wet
+Time: 2024-12-05 20:12:04, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:04, Lux: 140.45584311069797
+Time: 2024-12-05 20:12:06, Moisture: Wet
+Time: 2024-12-05 20:12:06, Moisture: Wet
+Time: 2024-12-05 20:12:06, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:06, Lux: 38.36534654229335
+Time: 2024-12-05 20:12:06, Lux: 38.36534654229335
+Time: 2024-12-05 20:12:08, Moisture: Wet
+Time: 2024-12-05 20:12:08, Moisture: Wet
+Time: 2024-12-05 20:12:08, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:09, Lux: 33.8814887252575
+Time: 2024-12-05 20:12:10, Moisture: Wet
+Time: 2024-12-05 20:12:10, Moisture: Wet
+Time: 2024-12-05 20:12:11, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:11, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:11, Lux: 34.5050524778502
+Time: 2024-12-05 20:12:13, Moisture: Wet
+Time: 2024-12-05 20:12:13, Moisture: Wet
+Time: 2024-12-05 20:12:13, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:13, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:13, Lux: 143.00712288837667
+Time: 2024-12-05 20:12:13, Lux: 143.00712288837667
+Time: 2024-12-05 20:12:15, Moisture: Wet
+Time: 2024-12-05 20:12:15, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:15, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:15, Lux: 65.68212862738861
+Time: 2024-12-05 20:12:15, Lux: 65.68212862738861
+Time: 2024-12-05 20:12:17, Moisture: Wet
+Time: 2024-12-05 20:12:18, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:18, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:18, Lux: 37.5641051542062
+Time: 2024-12-05 20:12:20, Moisture: Wet
+Time: 2024-12-05 20:12:20, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:20, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:20, Lux: 114.65998283591567
+Time: 2024-12-05 20:12:22, Moisture: Wet
+Time: 2024-12-05 20:12:22, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:22, Lux: 47.13458029244168
+Time: 2024-12-05 20:12:22, Lux: 47.13458029244168
+Time: 2024-12-05 20:12:24, Moisture: Wet
+Time: 2024-12-05 20:12:24, Moisture: Wet
+Time: 2024-12-05 20:12:24, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:24, Lux: 43.26306806453639
+Time: 2024-12-05 20:12:26, Moisture: Wet
+Time: 2024-12-05 20:12:26, Moisture: Wet
+Time: 2024-12-05 20:12:27, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:27, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:27, Lux: 24.345035718648084
+Time: 2024-12-05 20:12:27, Lux: 24.345035718648084
+Time: 2024-12-05 20:12:29, Moisture: Wet
+Time: 2024-12-05 20:12:29, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:29, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:29, Lux: 14.58565803498719
+Time: 2024-12-05 20:12:29, Lux: 14.58565803498719
+Time: 2024-12-05 20:12:31, Moisture: Wet
+Time: 2024-12-05 20:12:31, Moisture: Wet
+Time: 2024-12-05 20:12:31, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:31, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:31, Lux: 12.47593949922497
+Time: 2024-12-05 20:12:33, Moisture: Dry
+Time: 2024-12-05 20:12:33, Moisture: Dry
+Time: 2024-12-05 20:12:33, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:33, Lux: 12.893382411138049
+Time: 2024-12-05 20:12:35, Moisture: Wet
+Time: 2024-12-05 20:12:36, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:36, Lux: 10.916245515484874
+Time: 2024-12-05 20:12:38, Moisture: Wet
+Time: 2024-12-05 20:12:38, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:38, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:38, Lux: 30.126653272568497
+Time: 2024-12-05 20:12:40, Moisture: Wet
+Time: 2024-12-05 20:12:40, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:40, Lux: 29.094501844498986
+Time: 2024-12-05 20:12:40, Lux: 29.094501844498986
+Time: 2024-12-05 20:12:42, Moisture: Wet
+Time: 2024-12-05 20:12:42, Lux: 30.605213827170914
+Time: 2024-12-05 20:12:42, Lux: 30.605213827170914
+Time: 2024-12-05 20:12:44, Moisture: Wet
+Time: 2024-12-05 20:12:45, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:45, Lux: 27.10450316688808
+Time: 2024-12-05 20:12:45, Lux: 27.10450316688808
+Time: 2024-12-05 20:12:47, Moisture: Wet
+Time: 2024-12-05 20:12:47, Moisture: Wet
+Time: 2024-12-05 20:12:47, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:47, Lux: 144.3966272343258
+Time: 2024-12-05 20:12:47, Lux: 144.3966272343258
+Time: 2024-12-05 20:12:49, Moisture: Wet
+Time: 2024-12-05 20:12:49, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:49, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:49, Lux: 142.92947604636362
+Time: 2024-12-05 20:12:49, Lux: 142.92947604636362
+Time: 2024-12-05 20:12:51, Moisture: Wet
+Time: 2024-12-05 20:12:51, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:51, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:52, Lux: 140.6145764429003
+Time: 2024-12-05 20:12:53, Moisture: Wet
+Time: 2024-12-05 20:12:53, Moisture: Wet
+Time: 2024-12-05 20:12:54, Lux: 138.36479111412277
+Time: 2024-12-05 20:12:56, Moisture: Wet
+Time: 2024-12-05 20:12:56, Moisture: Wet
+Time: 2024-12-05 20:12:56, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:56, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:56, Lux: 137.14702831933425
+Time: 2024-12-05 20:12:58, Moisture: Wet
+Time: 2024-12-05 20:12:58, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:12:58, Lux: 139.12543640185473
+Time: 2024-12-05 20:13:00, Moisture: Wet
+Time: 2024-12-05 20:13:01, Temperature: 20C, Humidity: 59%
+Time: 2024-12-05 20:13:01, Temperature: 20C, Humidity: 59%
